@@ -1,0 +1,32 @@
+name: Radar Diario - audio Thalita (runner publico isolado)
+
+on:
+  push:
+    branches: [radar-audio-worker]
+    paths:
+      - 'radar-audio/roteiro-2026-11-22.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  criar-audio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar bibliotecas gratuitas
+        run: python -m pip install --disable-pip-version-check 'edge-tts==7.3.1' 'imageio-ffmpeg==0.6.0' 'mutagen==1.47.0'
+      - name: Sintetizar Thalita e normalizar duracao
+        run: python -u radar-audio/gerar_audio.py
+      - name: Disponibilizar MP3 verificado
+        uses: actions/upload-artifact@v4
+        with:
+          name: Radar_Diario_2026-11-22
+          path: radar-audio/output/Radar_Diario.mp3
+          retention-days: 3
+          if-no-files-found: error
