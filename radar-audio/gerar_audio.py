@@ -5,13 +5,16 @@ import re
 import subprocess
 import tempfile
 from pathlib import Path
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import edge_tts
 import imageio_ffmpeg
 from mutagen.mp3 import MP3
 
 VOICE = "pt-BR-ThalitaMultilingualNeural"
-INPUT = Path("radar-audio/roteiro-2026-11-22.txt")
+DIA = datetime.now(ZoneInfo("America/Sao_Paulo")).date().isoformat()
+INPUT = Path(f"radar-audio/roteiro-{DIA}.txt")
 OUTPUT = Path("radar-audio/output/Radar_Diario.mp3")
 
 def split_chunks(text, limit=950):
