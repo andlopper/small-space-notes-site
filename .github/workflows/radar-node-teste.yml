@@ -1,0 +1,23 @@
+name: Radar Diario - validar TTS alternativo
+on:
+  push:
+    branches: [radar-audio-worker]
+    paths:
+      - 'radar-audio/node-sondagem.txt'
+permissions:
+  contents: read
+jobs:
+  verificar-node:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar Edge TTS mais recente
+        run: npm install --no-save node-edge-tts@1.2.12
+      - name: Tentar sintetizar Thalita por endpoint alternativo
+        run: |
+          node -e "const { EdgeTTS }=require('node-edge-tts'); (async()=>{const tts=new EdgeTTS({voice:'pt-BR-ThalitaMultilingualNeural',lang:'pt-BR',timeout:25000}); await tts.ttsPromise('Verificação técnica de narração em português brasileiro.', '/tmp/probe.mp3'); console.log('NODE_TTS_OK')})().catch(e=>{console.error(e); process.exit(1)})"
+          test -s /tmp/probe.mp3
