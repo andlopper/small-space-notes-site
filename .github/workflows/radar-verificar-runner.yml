@@ -1,0 +1,13 @@
+name: Radar Diario - verificar runner publico
+on:
+  push:
+    branches: [radar-audio-worker]
+    paths: ['radar-audio/acionamento.txt']
+permissions:
+  contents: read
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - run: echo "RADAR_RUNNER_PUBLICO_OK"
