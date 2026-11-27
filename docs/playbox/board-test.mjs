@@ -18,6 +18,6 @@ if(["sync","duel"].includes(type)&&!gotNeutral){const j=s.turn,old=s.players[j].
 if(type==="duel"&&s.event.seconds&&!gotTimed){click("timerStart");assert(read().event.deadline===now+s.event.seconds*1000,"timed challenge start");now+=s.event.seconds*1000;interval?.();assert(els.challengeTimer.textContent==="0 s","timer expires");gotTimed=true;}
 resolveCard();}
 assert(gotCoin&&gotNeutral&&read().phase==="finished"&&html.includes("O amor venceu &lt;3"),"coin race and love finale");
-click("new");create("dice",0);random=.99;click("advance");assert(read().dice===3&&read().phase==="rolling"&&html.includes("show-3 rolling"),"dice max 3 spins toward result");timeout();assert(read().phase==="event"&&read().target===3,"dice result resolves");return checks;
+click("new");create("dice",0);random=.99;click("advance");assert(read().dice===3&&read().phase==="rolling"&&html.includes("cube rolling"),"dice max 3 spins toward result");timeout();assert(read().phase==="event"&&read().target===3,"dice result resolves");assert(html.includes('class="dice-result" aria-label="Dado: 3">3</div>')&&!html.includes('class="cube rolling"'),"single number after animation");assert(html.includes('id="turnHeader"')&&!html.includes('class="players"'),"compact turn header");return checks;
 }
 console.log(verifyBoard(readFileSync(new URL("./board.js",import.meta.url),"utf8")).map(x=>"PASS "+x).join("\n"));
