@@ -1,26 +1,23 @@
 import {readFileSync} from "node:fs";
 function verifyBoard(source){
+let html="",els={},store=new Map(),random=0,timeout=null,interval=null,now=1000;
 const checks=[],assert=(ok,label)=>{if(!ok)throw Error(label);checks.push(label);};
-let html="",els={},store=new Map(),random=0.0,timer=null;
-const root={get innerHTML(){return html},set innerHTML(v){html=v;els={};for(const m of v.matchAll(/<(?:button|input|select|form|p|div)[^>]*\bid="([^"]+)"[^>]*>/g)){const value=m[0].match(/\bvalue="([^"]*)"/);els[m[1]]={value:value?.[1]||"",disabled:/\bdisabled\b/.test(m[0]),textContent:""};}}};
-const doc={getElementById(id){return id==="boardapp"?root:els[id];}},storage={getItem:k=>store.get(k)||null,setItem:(k,v)=>store.set(k,v),removeItem:k=>store.delete(k)};
-const math=Object.create(Math);math.random=()=>random;new Function("document","localStorage","Math","setTimeout",source)(doc,storage,math,f=>{timer=f;});
-const read=()=>JSON.parse(store.get("playbox.board.v2")??null),click=id=>{if(!els[id]?.onclick||els[id].disabled)throw Error("Missing or disabled "+id);els[id].onclick();},submit=()=>els.setup.onsubmit({preventDefault(){}});
-function create(mode,size,level){els.name0.value="Ana";els.name1.value="Bia";els.mode.value=mode;els.mode.onchange();els.length.value=String(size);els.level.value=String(level);submit();}
-function finishRoll(){const f=timer;timer=null;f();}
-function resolveCard(id){if(read().phase==="coin")click("therapy");click(id);}
-assert(!els.agree&&html.includes("Ao começar a partida confirmo que temos 18 anos ou mais"),"age note no checkbox");
+const root={set innerHTML(v){html=v;els={};for(const m of v.matchAll(/<(?:button|input|select|form|p|div)[^>]*\bid="([^"]+)"[^>]*>/g)){els[m[1]]={value:m[0].match(/\bvalue="([^"]*)"/)?.[1]||"",disabled:/\bdisabled\b/.test(m[0]),textContent:""};}},get innerHTML(){return html}};
+const document={getElementById:id=>id==="boardapp"?root:els[id],addEventListener(){}},localStorage={getItem:k=>store.get(k)||null,setItem:(k,v)=>store.set(k,v),removeItem:k=>store.delete(k)},math=Object.create(Math);math.random=()=>random;const date={now:()=>now};
+new Function("document","localStorage","Math","Date","setTimeout","setInterval","clearInterval",source)(document,localStorage,math,date,f=>{timeout=f},f=>{interval=f;return 1},()=>{interval=null});
+const read=()=>JSON.parse(store.get("playbox.board.v3")??null),click=id=>{if(!els[id]?.onclick||els[id].disabled)throw Error("Missing "+id);els[id].onclick();},submit=()=>els.setup.onsubmit({preventDefault(){}});
+function create(mode,size){els.name0.value="Ana";els.name1.value="Bia";els.mode.value=mode;els.mode.onchange();els.length.value=String(size);submit();}
+assert(!els.level&&!els.agree&&html.includes("Ao começar a partida"),"simplified setup");
 submit();assert(els.error.textContent.includes("Preencham"),"names required");
-els.name0.value="Ana";els.name1.value="Bia";assert(els["color0-red"].disabled,"distinct pawn colors");click("color0-green");assert(els.name0.value==="Ana"&&els.name1.value==="Bia"&&els["color1-green"].disabled,"color selection preserves names");
-create("coin",1,1);let s=read();assert(s.length===27&&s.players[0].color==="green","coin normal length and pawn color");
-assert(s.tiles.filter(x=>x==="coin").length===9,"exactly one third coin spaces");assert([0,1,2].every(i=>s.tiles.slice(1+i*9,10+i*9).filter(x=>x==="coin").length===3),"one third in each stage");const counts=[0,1,2].map(i=>s.tiles.slice(1+i*9,10+i*9).filter(x=>x==="sex").length);assert(counts[0]<counts[1]&&counts[1]<counts[2],"increasing sex ratio");
-assert(!html.includes("opcional")&&!html.includes("Trocar por"),"no repeated optional label or alternatives");assert(html.includes("path-viewport")&&html.includes("house27"),"vertical path");
-click("advance");assert(read().target===1&&read().players[0].pos===0,"coin prepares one space");resolveCard("decline");assert(read().players[0].pos===1&&read().turn===1,"decline same progress");
-click("advance");resolveCard("done");assert(read().players[1].pos===1&&read().turn===0,"done same progress");
-let coinSeen=false;for(let i=0;i<20&&!coinSeen;i++){click("advance");if(read().phase==="coin"){coinSeen=true;assert(els.therapy&&els.sex,"real coin result buttons");click("sex");assert(read().card==="sex"&&read().phase==="card","real coin selects deck");}click("done");}assert(coinSeen,"coin house reached");
-click("lower");assert(read().level===0&&read().tiles.filter(x=>x==="coin").length===9,"reduction preserves exact coin count");
-click("stop");create("dice",1,1);s=read();assert(s.length===54&&s.tiles.every(x=>["start","therapy","sex"].includes(x)),"dice path twice as long only two types");
-random=.99;click("advance");assert(read().phase==="rolling"&&html.includes("cube rolling")&&read().dice===6,"six-sided spinning dice");finishRoll();assert(read().target===6&&read().players[0].pos===0&&read().phase==="card","dice destination after animation");click("decline");assert(read().players[0].pos===6&&read().turn===1,"dice refusal no penalty");click("advance");finishRoll();click("done");assert(read().players[1].pos===6,"dice completion same progress");
-let guard=0;while(read().phase!=="finished"&&guard++<50){if(read().phase==="turn")click("advance");else if(read().phase==="rolling")finishRoll();else resolveCard("done");}assert(read().phase==="finished"&&html.includes("O amor vencer &lt;3"),"love finale");click("new");assert(read()===null&&els.setup,"new game clears state");return checks;
+els.name0.value="Ana";els.name1.value="Bia";click("color0-green");assert(els.name0.value==="Ana"&&els["color1-green"].disabled,"compact color choice preserves names");
+for(const mode of ["coin","dice"])for(let size=0;size<3;size++){if(!els.setup)click("stop");create(mode,size);let s=read();assert(s.tiles.length===s.length+1&&s.tiles.at(-1)==="sex",mode+" size "+size+" final sex");assert(s.tiles.includes("wild")&&s.tiles.includes("sync")&&s.tiles.includes("duel"),mode+" special spaces");if(mode==="coin"){assert(s.tiles.filter(t=>t==="coin").length===s.length/3,"one-third coins");assert(!s.tiles.some(t=>["luck","bad","bonus"].includes(t)),"coin excludes dice specials");}else{assert(s.tiles.includes("luck")&&s.tiles.includes("bad")&&s.tiles.includes("bonus")&&!s.tiles.includes("coin"),"dice specials");assert(s.tiles.every((t,i)=>t!=="bonus"||s.tiles[i+1]==="sex"),"bonus always before sex");}}
+click("stop");random=0;create("coin",0);
+function resolveCard(){const type=read().event.type;if(type==="wild"){click("therapy");click("done");}else if(["luck","bad","bonus"].includes(type))click("special");else click("done");}
+let gotCoin=false,gotNeutral=false,gotTimed=false;for(let i=0;i<100&&read().phase!=="finished";i++){let s=read();if(s.phase==="turn"){click("advance");continue;}const type=s.event.type;if(type==="coin"&&!gotCoin){assert(!els.therapy&&!els.sex&&els.done&&els.decline,"coin directly done/declined");let j=s.turn;click("decline");assert(read().players[j].pos===s.target,"card refusal does not penalize");gotCoin=true;continue;}
+if(["sync","duel"].includes(type)&&!gotNeutral){const j=s.turn,old=s.players[j].pos,target=s.target;click("decline");assert(read().players[j].pos===old&&read().players[j].retry===target&&read().turn!==j,"neutral failure retries same destination");gotNeutral=true;continue;}
+if(type==="duel"&&s.event.seconds&&!gotTimed){click("timerStart");assert(read().event.deadline===now+s.event.seconds*1000,"timed challenge start");now+=s.event.seconds*1000;interval?.();assert(els.challengeTimer.textContent==="0 s","timer expires");gotTimed=true;}
+resolveCard();}
+assert(gotCoin&&gotNeutral&&read().phase==="finished"&&html.includes("O amor venceu &lt;3"),"coin race and love finale");
+click("new");create("dice",0);random=.99;click("advance");assert(read().dice===3&&read().phase==="rolling"&&html.includes("show-3 rolling"),"dice max 3 spins toward result");timeout();assert(read().phase==="event"&&read().target===3,"dice result resolves");return checks;
 }
 console.log(verifyBoard(readFileSync(new URL("./board.js",import.meta.url),"utf8")).map(x=>"PASS "+x).join("\n"));
