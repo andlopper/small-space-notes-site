@@ -31,4 +31,22 @@ main{padding:8px 10px 30px;max-width:650px}.setup-back{margin:4px 0 0}.back-smal
 .special-config h3{font-size:14px;margin:12px 0 4px;color:var(--muted)}.special-config .timer-control{margin:0;padding:6px 0;border-top:0;border-bottom:1px solid var(--border)}.special-config .toggle:disabled{opacity:.35}.special-config .timer-control:has(input:disabled) label{opacity:.5}
 .turn-sticky{height:174px;gap:4px;padding:6px 9px;overflow-anchor:none}.turn-sticky .panel{display:grid;grid-template-columns:38px minmax(0,1fr);grid-template-rows:44px 22px 38px;gap:3px 7px;padding:0;margin:0}.turn-sticky .panel .tag{grid-row:1;grid-column:2;font-size:13px;line-height:1.2;letter-spacing:0;padding:5px 7px;overflow-wrap:anywhere}.turn-sticky .panel .row,.turn-sticky .panel>.full{grid-row:3;grid-column:1/-1;margin:0}.turn-sticky .panel .row button,.turn-sticky .panel>.full{min-height:36px;padding:6px 8px;font-size:13px}.turn-sticky .panel .challenge-clock{grid-row:2;grid-column:1/-1;display:flex;align-items:center;justify-content:center;gap:8px}.turn-sticky .panel .challenge-clock .timer{font-size:17px;line-height:1;margin:0}.turn-sticky .panel .challenge-clock .full{width:auto;min-height:24px;margin:0;padding:2px 8px;font-size:11px}.turn-sticky .panel .challenge-clock #clockNotice{font-size:11px}.turn-sticky .panel:has(#advance) .full{grid-row:1;grid-column:2;min-height:40px}.turn-sticky .panel:has(#advance) .coin-art,.turn-sticky .panel:has(#advance) .dice-result{grid-row:1}.turn-sticky .final{display:flex;justify-content:center;align-items:center;gap:10px}.turn-sticky .final h2{font-size:21px}.turn-sticky .final .full{width:100%;min-height:38px}.path{padding-top:max(22px,calc((100dvh - 174px)/2 - 60px));padding-bottom:max(25px,calc((100dvh - 174px)/2 - 50px))}.path-row{scroll-margin-top:174px}html{overflow-anchor:none}@media(max-width:360px){.turn-sticky .panel .tag{font-size:12px}.turn-sticky .panel .row button{font-size:12px}}@media(max-height:520px) and (orientation:landscape){.turn-sticky{height:174px}}
 
-</style></head><body><main><div id="boardapp"></div><footer>Tabuleiro independente, complementar ao baralho físico. Não afiliado à marca. · <a href="privacy.html">Privacidade</a></footer></main><script src="board.js?v=9.3"></script><script src="wake.js?v=9.3"></script></body></html>
+
+/* v0.9.4 — shared explicit grid: every primary action occupies the same bottom row */
+.turn-sticky{height:180px;padding:6px 9px 9px;gap:4px}
+.turn-sticky #action:not(.final){display:grid;flex:1;min-height:0;grid-template-columns:38px minmax(0,1fr);grid-template-rows:40px 23px 38px;gap:5px 7px;align-content:end;align-items:center;padding:0;margin:0}
+.turn-sticky #action:not(.final)>.tag{grid-area:1/2/2/3;max-height:40px;overflow-wrap:anywhere}
+.turn-sticky #action:not(.final)>.dice-result,.turn-sticky #action:not(.final)>.dice-scene,.turn-sticky #action:not(.final)>.coin-art,.turn-sticky #action:not(.final)>.card-art{grid-area:1/1/2/2;margin:0 auto}
+.turn-sticky #action:not(.final)>.row,.turn-sticky #action:not(.final)>button.full{grid-area:3/1/4/3;align-self:stretch;min-height:38px;height:38px;margin:0;box-sizing:border-box}
+.turn-sticky #action:not(.final)>.row{display:flex;gap:7px}
+.turn-sticky #action:not(.final)>.row>button{height:38px;min-height:38px;min-width:0;margin:0;box-sizing:border-box;padding:5px 7px}
+.turn-sticky #action:not(.final)>.challenge-clock{grid-area:2/1/3/3;min-height:0;height:23px;margin:0;align-self:center}
+.turn-sticky #action:not(.final)>.challenge-clock button{height:23px;min-height:23px;padding:2px 8px}
+.turn-sticky #action.final{display:flex;flex:1;gap:5px;padding:0;justify-content:space-between;min-height:0;margin:0}
+.turn-sticky #action.final h2{font-size:20px;line-height:1.2;margin:0}
+.turn-sticky #action.final .final-subtitle{font-size:13px;line-height:1.25;margin:0;text-align:center}
+.turn-sticky #action.final>.full{height:38px;min-height:38px;margin:0;width:100%;box-sizing:border-box;padding:5px 8px}
+.path{padding-top:max(22px,calc((100dvh - 180px)/2 - 60px));padding-bottom:max(25px,calc((100dvh - 180px)/2 - 50px))}.path-row{scroll-margin-top:180px}
+@media(max-height:520px) and (orientation:landscape){.turn-sticky{height:180px}}
+
+</style></head><body><main><div id="boardapp"></div><footer>Tabuleiro independente, complementar ao baralho físico. Não afiliado à marca. · <a href="privacy.html">Privacidade</a></footer></main><script src="board.js?v=9.4"></script><script src="wake.js?v=9.4"></script></body></html>
