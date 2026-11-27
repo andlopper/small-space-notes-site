@@ -9,7 +9,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
       "source": "https://github.com/PokeAPI/sprites",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Pokémon",
+      "wikiEn": "Pikachu",
+      "wikiPt": "Pikachu"
     },
     {
       "id": "clay-char-v3-1",
@@ -20,7 +23,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Bob Esponja",
+      "wikiEn": "SpongeBob SquarePants (character)",
+      "wikiPt": "Bob Esponja (personagem)"
     },
     {
       "id": "clay-char-v3-2",
@@ -31,7 +37,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Patrick_Star",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Bob Esponja",
+      "wikiEn": "Patrick Star",
+      "wikiPt": "Patrick Estrela"
     },
     {
       "id": "clay-char-v3-3",
@@ -42,7 +51,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Mickey_Mouse",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Disney",
+      "wikiEn": "Mickey Mouse",
+      "wikiPt": "Mickey Mouse"
     },
     {
       "id": "clay-char-v3-4",
@@ -53,7 +65,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Minions_(Despicable_Me)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Meu Malvado Favorito",
+      "wikiEn": "Minions (Despicable Me)",
+      "wikiPt": "Minions"
     },
     {
       "id": "clay-char-v3-5",
@@ -64,7 +79,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Kirby_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Kirby",
+      "wikiEn": "Kirby (character)",
+      "wikiPt": "Kirby (personagem)"
     },
     {
       "id": "clay-char-v3-6",
@@ -75,7 +93,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Olaf_(Frozen)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Frozen",
+      "wikiEn": "Olaf (Frozen)",
+      "wikiPt": "Olaf (Frozen)"
     },
     {
       "id": "clay-char-v3-7",
@@ -86,7 +107,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Pingu",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Pingu",
+      "wikiEn": "Pingu",
+      "wikiPt": "Pingu"
     },
     {
       "id": "clay-char-v3-8",
@@ -97,7 +121,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Peppa_Pig",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Peppa Pig",
+      "wikiEn": "Peppa Pig",
+      "wikiPt": "Peppa Pig"
     },
     {
       "id": "clay-char-v3-9",
@@ -108,7 +135,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Garfield_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Garfield",
+      "wikiEn": "Garfield (character)",
+      "wikiPt": "Garfield"
     },
     {
       "id": "clay-char-v3-10",
@@ -119,18 +149,24 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Snoopy",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Peanuts",
+      "wikiEn": "Snoopy",
+      "wikiPt": "Snoopy"
     },
     {
       "id": "clay-char-v3-11",
-      "name": "Winnie the Pooh",
+      "name": "Ursinho Pooh",
       "category": "Personagens",
       "level": 1,
       "wikiTitle": "Winnie-the-Pooh",
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Winnie-the-Pooh",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Ursinho Pooh",
+      "wikiEn": "Winnie-the-Pooh",
+      "wikiPt": "Winnie-the-Pooh"
     },
     {
       "id": "clay-char-v3-12",
@@ -141,7 +177,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Pac-Man_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Pac-Man",
+      "wikiEn": "Pac-Man (character)",
+      "wikiPt": "Pac-Man"
     },
     {
       "id": "clay-char-v3-13",
@@ -152,7 +191,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Stitch_(Lilo_%26_Stitch)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Lilo & Stitch",
+      "wikiEn": "Stitch (Lilo & Stitch)",
+      "wikiPt": "Stitch"
     },
     {
       "id": "clay-char-v3-14",
@@ -163,7 +205,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Shrek_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Shrek",
+      "wikiEn": "Shrek (character)",
+      "wikiPt": "Shrek"
     },
     {
       "id": "clay-char-v3-15",
@@ -174,7 +219,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Monica_(Monica's_Gang)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Turma da Mônica",
+      "wikiEn": "Monica (Monica's Gang)",
+      "wikiPt": "Mônica (Turma da Mônica)"
     },
     {
       "id": "clay-char-v3-16",
@@ -185,7 +233,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Jimmy_Five",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Turma da Mônica",
+      "wikiEn": "Jimmy Five",
+      "wikiPt": "Cebolinha"
     },
     {
       "id": "clay-char-v3-17",
@@ -196,7 +247,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Smudge_(Monica's_Gang)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Turma da Mônica",
+      "wikiEn": "Smudge (Monica's Gang)",
+      "wikiPt": "Cascão"
     },
     {
       "id": "clay-char-v3-18",
@@ -207,7 +261,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Maggy_(Monica's_Gang)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Turma da Mônica",
+      "wikiEn": "Maggy (Monica's Gang)",
+      "wikiPt": "Magali"
     },
     {
       "id": "clay-char-v3-19",
@@ -218,7 +275,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/My_Neighbor_Totoro",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Meu Amigo Totoro",
+      "wikiEn": "My Neighbor Totoro",
+      "wikiPt": "Totoro"
     },
     {
       "id": "clay-char-v3-20",
@@ -229,18 +289,24 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Creeper_(Minecraft)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Minecraft",
+      "wikiEn": "Creeper (Minecraft)",
+      "wikiPt": "Creeper (Minecraft)"
     },
     {
       "id": "clay-char-v3-21",
-      "name": "Steve do Minecraft",
+      "name": "Steve",
       "category": "Personagens",
       "level": 1,
       "wikiTitle": "Steve (Minecraft)",
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Steve_(Minecraft)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Minecraft",
+      "wikiEn": "Steve (Minecraft)",
+      "wikiPt": "Steve (Minecraft)"
     },
     {
       "id": "clay-char-v3-22",
@@ -251,7 +317,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
       "source": "https://github.com/PokeAPI/sprites",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Pokémon",
+      "wikiEn": "Snorlax",
+      "wikiPt": "Snorlax"
     },
     {
       "id": "clay-char-v3-23",
@@ -262,7 +331,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Bugs_Bunny",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Looney Tunes",
+      "wikiEn": "Bugs Bunny",
+      "wikiPt": "Pernalonga"
     },
     {
       "id": "clay-char-v3-24",
@@ -273,7 +345,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Tweety",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Looney Tunes",
+      "wikiEn": "Tweety",
+      "wikiPt": "Piu-Piu"
     },
     {
       "id": "clay-char-v3-25",
@@ -284,7 +359,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Dora_the_Explorer",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Dora, a Aventureira",
+      "wikiEn": "Dora the Explorer",
+      "wikiPt": "Dora, a Aventureira"
     },
     {
       "id": "clay-char-v3-26",
@@ -295,7 +373,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Lightning_McQueen",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Carros",
+      "wikiEn": "Lightning McQueen",
+      "wikiPt": "Relâmpago McQueen"
     },
     {
       "id": "clay-char-v3-27",
@@ -306,7 +387,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Finding_Nemo",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Procurando Nemo",
+      "wikiEn": "Finding Nemo",
+      "wikiPt": "Nemo (personagem)"
     },
     {
       "id": "clay-char-v3-28",
@@ -317,7 +401,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Dory_(Finding_Nemo)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Procurando Nemo",
+      "wikiEn": "Dory (Finding Nemo)",
+      "wikiPt": "Dory (personagem)"
     },
     {
       "id": "clay-char-v3-29",
@@ -328,7 +415,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Groot",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Guardiões da Galáxia",
+      "wikiEn": "Groot",
+      "wikiPt": "Groot"
     },
     {
       "id": "clay-char-v3-30",
@@ -339,7 +429,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Mike_Wazowski",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Monstros S.A.",
+      "wikiEn": "Mike Wazowski",
+      "wikiPt": "Mike Wazowski"
     },
     {
       "id": "clay-char-v3-31",
@@ -350,18 +443,24 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Baymax",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Operação Big Hero",
+      "wikiEn": "Baymax",
+      "wikiPt": "Baymax"
     },
     {
       "id": "clay-char-v3-32",
-      "name": "Among Us (tripulante)",
+      "name": "Tripulante",
       "category": "Personagens",
       "level": 1,
       "wikiTitle": "Among Us",
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Among_Us",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Among Us",
+      "wikiEn": "Among Us",
+      "wikiPt": "Among Us"
     },
     {
       "id": "clay-char-v3-33",
@@ -372,7 +471,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Donald_Duck",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Disney",
+      "wikiEn": "Donald Duck",
+      "wikiPt": "Pato Donald"
     },
     {
       "id": "clay-char-v3-34",
@@ -383,7 +485,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Minnie_Mouse",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Disney",
+      "wikiEn": "Minnie Mouse",
+      "wikiPt": "Minnie Mouse"
     },
     {
       "id": "clay-char-v3-35",
@@ -394,7 +499,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Mario",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Super Mario",
+      "wikiEn": "Mario",
+      "wikiPt": "Mario (personagem)"
     },
     {
       "id": "clay-char-v3-36",
@@ -405,7 +513,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Luigi",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Super Mario",
+      "wikiEn": "Luigi",
+      "wikiPt": "Luigi"
     },
     {
       "id": "clay-char-v3-37",
@@ -416,7 +527,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Sonic",
+      "wikiEn": "Sonic the Hedgehog (character)",
+      "wikiPt": "Sonic the Hedgehog (personagem)"
     },
     {
       "id": "clay-char-v3-38",
@@ -427,7 +541,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Yoshi",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Super Mario",
+      "wikiEn": "Yoshi",
+      "wikiPt": "Yoshi"
     },
     {
       "id": "clay-char-v3-39",
@@ -438,7 +555,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
       "source": "https://github.com/PokeAPI/sprites",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Pokémon",
+      "wikiEn": "Charmander",
+      "wikiPt": "Charmander"
     },
     {
       "id": "clay-char-v3-40",
@@ -449,7 +569,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
       "source": "https://github.com/PokeAPI/sprites",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Pokémon",
+      "wikiEn": "Bulbasaur",
+      "wikiPt": "Bulbasaur"
     },
     {
       "id": "clay-char-v3-41",
@@ -460,7 +583,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
       "source": "https://github.com/PokeAPI/sprites",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Pokémon",
+      "wikiEn": "Squirtle",
+      "wikiPt": "Squirtle"
     },
     {
       "id": "clay-char-v3-42",
@@ -471,7 +597,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
       "source": "https://github.com/PokeAPI/sprites",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Pokémon",
+      "wikiEn": "Eevee",
+      "wikiPt": "Eevee"
     },
     {
       "id": "clay-char-v3-43",
@@ -482,7 +611,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Tom_Cat",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Tom e Jerry",
+      "wikiEn": "Tom Cat",
+      "wikiPt": "Tom (Tom e Jerry)"
     },
     {
       "id": "clay-char-v3-44",
@@ -493,7 +625,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Jerry_Mouse",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Tom e Jerry",
+      "wikiEn": "Jerry Mouse",
+      "wikiPt": "Jerry (Tom e Jerry)"
     },
     {
       "id": "clay-char-v3-45",
@@ -504,7 +639,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Scooby-Doo_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Scooby-Doo",
+      "wikiEn": "Scooby-Doo (character)",
+      "wikiPt": "Scooby-Doo"
     },
     {
       "id": "clay-char-v3-46",
@@ -515,18 +653,24 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Goofy",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Disney",
+      "wikiEn": "Goofy",
+      "wikiPt": "Pateta"
     },
     {
       "id": "clay-char-v3-47",
-      "name": "Burro do Shrek",
+      "name": "Burro",
       "category": "Personagens",
       "level": 2,
       "wikiTitle": "Donkey (Shrek)",
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Donkey_(Shrek)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Shrek",
+      "wikiEn": "Donkey (Shrek)",
+      "wikiPt": "Burro (Shrek)"
     },
     {
       "id": "clay-char-v3-48",
@@ -537,7 +681,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Homer_Simpson",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Os Simpsons",
+      "wikiEn": "Homer Simpson",
+      "wikiPt": "Homer Simpson"
     },
     {
       "id": "clay-char-v3-49",
@@ -548,7 +695,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Bart_Simpson",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Os Simpsons",
+      "wikiEn": "Bart Simpson",
+      "wikiPt": "Bart Simpson"
     },
     {
       "id": "clay-char-v3-50",
@@ -559,7 +709,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Marge_Simpson",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Os Simpsons",
+      "wikiEn": "Marge Simpson",
+      "wikiPt": "Marge Simpson"
     },
     {
       "id": "clay-char-v3-51",
@@ -570,7 +723,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/El_Chavo_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Chaves",
+      "wikiEn": "El Chavo (character)",
+      "wikiPt": "Chaves"
     },
     {
       "id": "clay-char-v3-52",
@@ -581,7 +737,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Batman",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Batman",
+      "wikiEn": "Batman",
+      "wikiPt": "Batman"
     },
     {
       "id": "clay-char-v3-53",
@@ -592,7 +751,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Spider-Man",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Homem-Aranha",
+      "wikiEn": "Spider-Man",
+      "wikiPt": "Homem-Aranha"
     },
     {
       "id": "clay-char-v3-54",
@@ -603,7 +765,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Superman",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Superman",
+      "wikiEn": "Superman",
+      "wikiPt": "Superman"
     },
     {
       "id": "clay-char-v3-55",
@@ -614,7 +779,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Hulk",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Marvel",
+      "wikiEn": "Hulk",
+      "wikiPt": "Hulk"
     },
     {
       "id": "clay-char-v3-56",
@@ -625,7 +793,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Captain_America",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Marvel",
+      "wikiEn": "Captain America",
+      "wikiPt": "Capitão América"
     },
     {
       "id": "clay-char-v3-57",
@@ -636,7 +807,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Darth_Vader",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Star Wars",
+      "wikiEn": "Darth Vader",
+      "wikiPt": "Darth Vader"
     },
     {
       "id": "clay-char-v3-58",
@@ -647,29 +821,38 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Yoda",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Star Wars",
+      "wikiEn": "Yoda",
+      "wikiPt": "Yoda"
     },
     {
       "id": "clay-char-v3-59",
-      "name": "Wall-E",
+      "name": "WALL-E",
       "category": "Personagens",
       "level": 2,
       "wikiTitle": "WALL-E",
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/WALL-E",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "WALL-E",
+      "wikiEn": "WALL-E",
+      "wikiPt": "WALL-E"
     },
     {
       "id": "clay-char-v3-60",
-      "name": "Po de Kung Fu Panda",
+      "name": "Po",
       "category": "Personagens",
       "level": 2,
       "wikiTitle": "Po (Kung Fu Panda)",
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Po_(Kung_Fu_Panda)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Kung Fu Panda",
+      "wikiEn": "Po (Kung Fu Panda)",
+      "wikiPt": "Po (Kung Fu Panda)"
     },
     {
       "id": "clay-char-v3-61",
@@ -680,7 +863,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Dumbo",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Dumbo",
+      "wikiEn": "Dumbo",
+      "wikiPt": "Dumbo"
     },
     {
       "id": "clay-char-v3-62",
@@ -691,7 +877,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Simba",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "O Rei Leão",
+      "wikiEn": "Simba",
+      "wikiPt": "Simba"
     },
     {
       "id": "clay-char-v3-63",
@@ -702,7 +891,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Timon_and_Pumbaa",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "O Rei Leão",
+      "wikiEn": "Timon and Pumbaa",
+      "wikiPt": "Timão"
     },
     {
       "id": "clay-char-v3-64",
@@ -713,18 +905,24 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Timon_and_Pumbaa",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "O Rei Leão",
+      "wikiEn": "Timon and Pumbaa",
+      "wikiPt": "Pumba"
     },
     {
       "id": "clay-char-v3-65",
-      "name": "Pato Lucas",
+      "name": "Patolino",
       "category": "Personagens",
       "level": 2,
       "wikiTitle": "Daffy Duck",
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Daffy_Duck",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Looney Tunes",
+      "wikiEn": "Daffy Duck",
+      "wikiPt": "Patolino"
     },
     {
       "id": "clay-char-v3-66",
@@ -735,7 +933,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Sylvester_the_Cat",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Looney Tunes",
+      "wikiEn": "Sylvester the Cat",
+      "wikiPt": "Frajola"
     },
     {
       "id": "clay-char-v3-67",
@@ -746,7 +947,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Wile_E._Coyote_and_the_Road_Runner",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Looney Tunes",
+      "wikiEn": "Wile E. Coyote and the Road Runner",
+      "wikiPt": "Papa-Léguas"
     },
     {
       "id": "clay-char-v3-68",
@@ -757,7 +961,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Courage_the_Cowardly_Dog",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Coragem, o Cão Covarde",
+      "wikiEn": "Courage the Cowardly Dog",
+      "wikiPt": "Coragem, o Cão Covarde"
     },
     {
       "id": "clay-char-v3-69",
@@ -768,7 +975,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Finn_the_Human",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Hora de Aventura",
+      "wikiEn": "Finn the Human",
+      "wikiPt": "Finn (Hora de Aventura)"
     },
     {
       "id": "clay-char-v3-70",
@@ -779,7 +989,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Jake_the_Dog",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Hora de Aventura",
+      "wikiEn": "Jake the Dog",
+      "wikiPt": "Jake (Hora de Aventura)"
     },
     {
       "id": "clay-char-v3-71",
@@ -790,7 +1003,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Gumball_Watterson",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "O Incrível Mundo de Gumball",
+      "wikiEn": "Gumball Watterson",
+      "wikiPt": "Gumball"
     },
     {
       "id": "clay-char-v3-72",
@@ -801,7 +1017,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Darwin_Watterson",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "O Incrível Mundo de Gumball",
+      "wikiEn": "Darwin Watterson",
+      "wikiPt": "Darwin (O Incrível Mundo de Gumball)"
     },
     {
       "id": "clay-char-v3-73",
@@ -812,7 +1031,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Hello_Kitty",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Hello Kitty",
+      "wikiEn": "Hello Kitty",
+      "wikiPt": "Hello Kitty"
     },
     {
       "id": "clay-char-v3-74",
@@ -823,7 +1045,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Popeye",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Popeye",
+      "wikiEn": "Popeye",
+      "wikiPt": "Popeye"
     },
     {
       "id": "clay-char-v3-75",
@@ -834,7 +1059,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Chuck_Billy",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Turma da Mônica",
+      "wikiEn": "Chuck Billy",
+      "wikiPt": "Chico Bento"
     },
     {
       "id": "clay-char-v3-76",
@@ -845,7 +1073,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/La_Chilindrina",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Chaves",
+      "wikiEn": "La Chilindrina",
+      "wikiPt": "Chiquinha"
     },
     {
       "id": "clay-char-v3-77",
@@ -856,7 +1087,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Quico",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Chaves",
+      "wikiEn": "Quico",
+      "wikiPt": "Quico"
     },
     {
       "id": "clay-char-v3-78",
@@ -867,7 +1101,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Don_Ram%C3%B3n",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Chaves",
+      "wikiEn": "Don Ramón",
+      "wikiPt": "Seu Madruga"
     },
     {
       "id": "clay-char-v3-79",
@@ -878,7 +1115,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Princess_Fiona",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Shrek",
+      "wikiEn": "Princess Fiona",
+      "wikiPt": "Princesa Fiona"
     },
     {
       "id": "clay-char-v3-80",
@@ -889,7 +1129,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Elsa_(Frozen)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Frozen",
+      "wikiEn": "Elsa (Frozen)",
+      "wikiPt": "Elsa (Frozen)"
     },
     {
       "id": "clay-char-v3-81",
@@ -900,7 +1143,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Moana_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Moana",
+      "wikiEn": "Moana (character)",
+      "wikiPt": "Moana"
     },
     {
       "id": "clay-char-v3-82",
@@ -911,7 +1157,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Woody_(Toy_Story)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Toy Story",
+      "wikiEn": "Woody (Toy Story)",
+      "wikiPt": "Woody"
     },
     {
       "id": "clay-char-v3-83",
@@ -922,7 +1171,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Buzz_Lightyear",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Toy Story",
+      "wikiEn": "Buzz Lightyear",
+      "wikiPt": "Buzz Lightyear"
     },
     {
       "id": "clay-char-v3-84",
@@ -933,7 +1185,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Wonder_Woman",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "DC Comics",
+      "wikiEn": "Wonder Woman",
+      "wikiPt": "Mulher-Maravilha"
     },
     {
       "id": "clay-char-v3-85",
@@ -944,7 +1199,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Iron_Man",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Marvel",
+      "wikiEn": "Iron Man",
+      "wikiPt": "Homem de Ferro"
     },
     {
       "id": "clay-char-v3-86",
@@ -955,7 +1213,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Harry_Potter_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Harry Potter",
+      "wikiEn": "Harry Potter (character)",
+      "wikiPt": "Harry Potter"
     },
     {
       "id": "clay-char-v3-87",
@@ -966,7 +1227,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Hermione_Granger",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Harry Potter",
+      "wikiEn": "Hermione Granger",
+      "wikiPt": "Hermione Granger"
     },
     {
       "id": "clay-char-v3-88",
@@ -977,7 +1241,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Goku",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Dragon Ball",
+      "wikiEn": "Goku",
+      "wikiPt": "Goku"
     },
     {
       "id": "clay-char-v3-89",
@@ -988,7 +1255,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Vegeta",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Dragon Ball",
+      "wikiEn": "Vegeta",
+      "wikiPt": "Vegeta"
     },
     {
       "id": "clay-char-v3-90",
@@ -999,7 +1269,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Naruto",
+      "wikiEn": "Naruto Uzumaki",
+      "wikiPt": "Naruto"
     },
     {
       "id": "clay-char-v3-91",
@@ -1010,7 +1283,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Monkey_D._Luffy",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "One Piece",
+      "wikiEn": "Monkey D. Luffy",
+      "wikiPt": "Luffy"
     },
     {
       "id": "clay-char-v3-92",
@@ -1021,7 +1297,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
       "source": "https://github.com/PokeAPI/sprites",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Pokémon",
+      "wikiEn": "Charizard",
+      "wikiPt": "Charizard"
     },
     {
       "id": "clay-char-v3-93",
@@ -1032,7 +1311,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Como Treinar o Seu Dragão",
+      "wikiEn": "Toothless (How to Train Your Dragon)",
+      "wikiPt": "Banguela"
     },
     {
       "id": "clay-char-v3-94",
@@ -1043,7 +1325,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Jack_Sparrow",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Piratas do Caribe",
+      "wikiEn": "Jack Sparrow",
+      "wikiPt": "Jack Sparrow"
     },
     {
       "id": "clay-char-v3-95",
@@ -1054,7 +1339,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Joker_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Batman",
+      "wikiEn": "Joker (character)",
+      "wikiPt": "Coringa (DC Comics)"
     },
     {
       "id": "clay-char-v3-96",
@@ -1065,7 +1353,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Harley_Quinn",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Batman",
+      "wikiEn": "Harley Quinn",
+      "wikiPt": "Arlequina"
     },
     {
       "id": "clay-char-v3-97",
@@ -1076,7 +1367,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Donkey_Kong_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Super Mario",
+      "wikiEn": "Donkey Kong (character)",
+      "wikiPt": "Donkey Kong"
     },
     {
       "id": "clay-char-v3-98",
@@ -1087,7 +1381,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Bowser",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Super Mario",
+      "wikiEn": "Bowser",
+      "wikiPt": "Bowser"
     },
     {
       "id": "clay-char-v3-99",
@@ -1098,7 +1395,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Princess_Peach",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Super Mario",
+      "wikiEn": "Princess Peach",
+      "wikiPt": "Princesa Peach"
     },
     {
       "id": "clay-char-v3-100",
@@ -1109,7 +1409,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Deadpool",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Marvel",
+      "wikiEn": "Deadpool",
+      "wikiPt": "Deadpool"
     },
     {
       "id": "clay-char-v3-101",
@@ -1120,7 +1423,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Wolverine_(character)",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "X-Men",
+      "wikiEn": "Wolverine (character)",
+      "wikiPt": "Wolverine"
     },
     {
       "id": "clay-char-v3-102",
@@ -1131,7 +1437,10 @@ window.PLAYBOX_CATALOG = {
       "wikiLang": "en",
       "image": null,
       "source": "https://en.wikipedia.org/wiki/Hiccup_Horrendous_Haddock_III",
-      "hint": "Modele as formas principais e os detalhes reconhecíveis."
+      "hint": "Modele as formas principais e os detalhes reconhecíveis.",
+      "series": "Como Treinar o Seu Dragão",
+      "wikiEn": "Hiccup Horrendous Haddock III",
+      "wikiPt": "Soluço (Como Treinar o Seu Dragão)"
     },
     {
       "id": "clay-Animais-0",
@@ -1140,7 +1449,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Gato",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-1",
@@ -1149,7 +1460,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Cachorro",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-2",
@@ -1158,7 +1471,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Coelho",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-3",
@@ -1167,7 +1482,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Tartaruga",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-4",
@@ -1176,7 +1493,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Polvo",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-5",
@@ -1185,7 +1504,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Sapo",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-6",
@@ -1194,7 +1515,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Panda",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-7",
@@ -1203,7 +1526,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Pinguim",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-8",
@@ -1212,7 +1537,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Raposa",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-9",
@@ -1221,7 +1548,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Leão",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-10",
@@ -1230,7 +1559,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Elefante",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-11",
@@ -1239,7 +1570,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Girafa",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-12",
@@ -1248,7 +1581,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Crocodilo",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-13",
@@ -1257,7 +1592,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Coruja",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-14",
@@ -1266,7 +1603,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Ouriço",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-15",
@@ -1275,7 +1614,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Borboleta",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-16",
@@ -1284,7 +1625,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Tiranossauro",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-17",
@@ -1293,7 +1636,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Caranguejo",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-18",
@@ -1302,7 +1647,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Abelha",
+      "wikiEn": null
     },
     {
       "id": "clay-Animais-19",
@@ -1311,7 +1658,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Peixe",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-0",
@@ -1320,7 +1669,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Pizza",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-1",
@@ -1329,7 +1680,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Hambúrguer",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-2",
@@ -1338,7 +1691,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Donut",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-3",
@@ -1347,7 +1702,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Sorvete",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-4",
@@ -1356,7 +1713,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Melancia",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-5",
@@ -1365,7 +1724,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Morango",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-6",
@@ -1374,7 +1735,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Banana",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-7",
@@ -1383,7 +1746,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Uvas",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-8",
@@ -1392,7 +1757,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Abacate",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-9",
@@ -1401,7 +1768,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Cogumelo",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-10",
@@ -1410,7 +1779,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Croissant",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-11",
@@ -1419,7 +1790,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Bolo",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-12",
@@ -1428,7 +1801,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Taco",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-13",
@@ -1437,7 +1812,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Pipoca",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-14",
@@ -1446,7 +1823,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Abacaxi",
+      "wikiEn": null
     },
     {
       "id": "clay-Comidas-15",
@@ -1455,7 +1834,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Cenoura",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-0",
@@ -1464,7 +1845,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Foguete",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-1",
@@ -1473,7 +1856,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Carro",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-2",
@@ -1482,7 +1867,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Trem",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-3",
@@ -1491,7 +1878,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Avião",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-4",
@@ -1500,7 +1889,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Barco",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-5",
@@ -1509,7 +1900,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Casa",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-6",
@@ -1518,7 +1911,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Castelo",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-7",
@@ -1527,7 +1922,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Guitarra",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-8",
@@ -1536,7 +1933,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Balão",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-9",
@@ -1545,7 +1944,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Presente",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-10",
@@ -1554,7 +1955,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Relógio",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-11",
@@ -1563,7 +1966,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Cartola",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-12",
@@ -1572,7 +1977,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Ursinho",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-13",
@@ -1581,7 +1988,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Robô",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-14",
@@ -1590,7 +1999,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Unicórnio",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-15",
@@ -1599,7 +2010,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Mago",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-16",
@@ -1608,7 +2021,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Fantasma",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-17",
@@ -1617,7 +2032,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Sereia",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-18",
@@ -1626,7 +2043,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Coroa",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-19",
@@ -1635,7 +2054,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Disco voador",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-20",
@@ -1644,7 +2065,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Cacto",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-21",
@@ -1653,7 +2076,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Arco-íris",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-22",
@@ -1662,7 +2087,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Boneco de neve",
+      "wikiEn": null
     },
     {
       "id": "clay-Objetos-23",
@@ -1671,7 +2098,42 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 3,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Lâmpada",
+      "wikiEn": null
+    },
+    {
+      "id": "clay-simpsons-flanders",
+      "name": "Flanders",
+      "category": "Personagens",
+      "level": 2,
+      "series": "Os Simpsons",
+      "wikiPt": "Ned Flanders",
+      "wikiEn": "Ned Flanders",
+      "source": "Wikipédia",
+      "image": null
+    },
+    {
+      "id": "clay-simpsons-lisa-simpson",
+      "name": "Lisa Simpson",
+      "category": "Personagens",
+      "level": 2,
+      "series": "Os Simpsons",
+      "wikiPt": "Lisa Simpson",
+      "wikiEn": "Lisa Simpson",
+      "source": "Wikipédia",
+      "image": null
+    },
+    {
+      "id": "clay-simpsons-maggie-simpson",
+      "name": "Maggie Simpson",
+      "category": "Personagens",
+      "level": 2,
+      "series": "Os Simpsons",
+      "wikiPt": "Maggie Simpson",
+      "wikiEn": "Maggie Simpson",
+      "source": "Wikipédia",
+      "image": null
     }
   ],
   "who": [
@@ -1684,7 +2146,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Mario",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Mario"
+      "source": "https://en.wikipedia.org/wiki/Mario",
+      "series": "Super Mario",
+      "wikiEn": "Mario",
+      "wikiPt": "Mario (personagem)"
     },
     {
       "id": "who-Personagens-1",
@@ -1695,7 +2160,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Luigi",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Luigi"
+      "source": "https://en.wikipedia.org/wiki/Luigi",
+      "series": "Super Mario",
+      "wikiEn": "Luigi",
+      "wikiPt": "Luigi"
     },
     {
       "id": "who-Personagens-2",
@@ -1706,7 +2174,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Sonic the Hedgehog (character)",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(character)"
+      "source": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(character)",
+      "series": "Sonic",
+      "wikiEn": "Sonic the Hedgehog (character)",
+      "wikiPt": "Sonic the Hedgehog (personagem)"
     },
     {
       "id": "who-Personagens-3",
@@ -1717,7 +2188,10 @@ window.PLAYBOX_CATALOG = {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
       "source": "https://github.com/PokeAPI/sprites",
       "wikiTitle": "Pikachu",
-      "wikiLang": "en"
+      "wikiLang": "en",
+      "series": "Pokémon",
+      "wikiEn": "Pikachu",
+      "wikiPt": "Pikachu"
     },
     {
       "id": "who-Personagens-4",
@@ -1728,7 +2202,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Shrek (character)",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Shrek_(character)"
+      "source": "https://en.wikipedia.org/wiki/Shrek_(character)",
+      "series": "Shrek",
+      "wikiEn": "Shrek (character)",
+      "wikiPt": "Shrek"
     },
     {
       "id": "who-Personagens-5",
@@ -1739,18 +2216,24 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Princess Fiona",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Princess_Fiona"
+      "source": "https://en.wikipedia.org/wiki/Princess_Fiona",
+      "series": "Shrek",
+      "wikiEn": "Princess Fiona",
+      "wikiPt": "Princesa Fiona"
     },
     {
       "id": "who-Personagens-6",
-      "name": "Burro do Shrek",
+      "name": "Burro",
       "category": "Personagens",
       "level": 1,
       "hint": "Personagens",
       "wikiTitle": "Donkey (Shrek)",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Donkey_(Shrek)"
+      "source": "https://en.wikipedia.org/wiki/Donkey_(Shrek)",
+      "series": "Shrek",
+      "wikiEn": "Donkey (Shrek)",
+      "wikiPt": "Burro (Shrek)"
     },
     {
       "id": "who-Personagens-7",
@@ -1761,7 +2244,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "SpongeBob SquarePants (character)",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants_(character)"
+      "source": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants_(character)",
+      "series": "Bob Esponja",
+      "wikiEn": "SpongeBob SquarePants (character)",
+      "wikiPt": "Bob Esponja (personagem)"
     },
     {
       "id": "who-Personagens-8",
@@ -1772,7 +2258,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Patrick Star",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Patrick_Star"
+      "source": "https://en.wikipedia.org/wiki/Patrick_Star",
+      "series": "Bob Esponja",
+      "wikiEn": "Patrick Star",
+      "wikiPt": "Patrick Estrela"
     },
     {
       "id": "who-Personagens-9",
@@ -1783,7 +2272,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Batman",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Batman"
+      "source": "https://en.wikipedia.org/wiki/Batman",
+      "series": "Batman",
+      "wikiEn": "Batman",
+      "wikiPt": "Batman"
     },
     {
       "id": "who-Personagens-10",
@@ -1794,7 +2286,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Superman",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Superman"
+      "source": "https://en.wikipedia.org/wiki/Superman",
+      "series": "Superman",
+      "wikiEn": "Superman",
+      "wikiPt": "Superman"
     },
     {
       "id": "who-Personagens-11",
@@ -1805,7 +2300,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Wonder Woman",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman",
+      "series": "DC Comics",
+      "wikiEn": "Wonder Woman",
+      "wikiPt": "Mulher-Maravilha"
     },
     {
       "id": "who-Personagens-12",
@@ -1816,7 +2314,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Spider-Man",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+      "source": "https://en.wikipedia.org/wiki/Spider-Man",
+      "series": "Homem-Aranha",
+      "wikiEn": "Spider-Man",
+      "wikiPt": "Homem-Aranha"
     },
     {
       "id": "who-Personagens-13",
@@ -1827,7 +2328,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Hulk",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Hulk"
+      "source": "https://en.wikipedia.org/wiki/Hulk",
+      "series": "Marvel",
+      "wikiEn": "Hulk",
+      "wikiPt": "Hulk"
     },
     {
       "id": "who-Personagens-14",
@@ -1838,7 +2342,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Captain America",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Captain_America"
+      "source": "https://en.wikipedia.org/wiki/Captain_America",
+      "series": "Marvel",
+      "wikiEn": "Captain America",
+      "wikiPt": "Capitão América"
     },
     {
       "id": "who-Personagens-15",
@@ -1849,7 +2356,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Iron Man",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+      "source": "https://en.wikipedia.org/wiki/Iron_Man",
+      "series": "Marvel",
+      "wikiEn": "Iron Man",
+      "wikiPt": "Homem de Ferro"
     },
     {
       "id": "who-Personagens-16",
@@ -1860,7 +2370,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Elsa (Frozen)",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Elsa_(Frozen)"
+      "source": "https://en.wikipedia.org/wiki/Elsa_(Frozen)",
+      "series": "Frozen",
+      "wikiEn": "Elsa (Frozen)",
+      "wikiPt": "Elsa (Frozen)"
     },
     {
       "id": "who-Personagens-17",
@@ -1871,7 +2384,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Olaf (Frozen)",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Olaf_(Frozen)"
+      "source": "https://en.wikipedia.org/wiki/Olaf_(Frozen)",
+      "series": "Frozen",
+      "wikiEn": "Olaf (Frozen)",
+      "wikiPt": "Olaf (Frozen)"
     },
     {
       "id": "who-Personagens-18",
@@ -1882,7 +2398,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Mickey Mouse",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Mickey_Mouse"
+      "source": "https://en.wikipedia.org/wiki/Mickey_Mouse",
+      "series": "Disney",
+      "wikiEn": "Mickey Mouse",
+      "wikiPt": "Mickey Mouse"
     },
     {
       "id": "who-Personagens-19",
@@ -1893,7 +2412,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Minnie Mouse",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Minnie_Mouse"
+      "source": "https://en.wikipedia.org/wiki/Minnie_Mouse",
+      "series": "Disney",
+      "wikiEn": "Minnie Mouse",
+      "wikiPt": "Minnie Mouse"
     },
     {
       "id": "who-Personagens-20",
@@ -1904,7 +2426,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Goofy",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Goofy"
+      "source": "https://en.wikipedia.org/wiki/Goofy",
+      "series": "Disney",
+      "wikiEn": "Goofy",
+      "wikiPt": "Pateta"
     },
     {
       "id": "who-Personagens-21",
@@ -1915,7 +2440,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Donald Duck",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Donald_Duck"
+      "source": "https://en.wikipedia.org/wiki/Donald_Duck",
+      "series": "Disney",
+      "wikiEn": "Donald Duck",
+      "wikiPt": "Pato Donald"
     },
     {
       "id": "who-Personagens-22",
@@ -1926,7 +2454,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Harry Potter (character)",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Harry_Potter_(character)"
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_(character)",
+      "series": "Harry Potter",
+      "wikiEn": "Harry Potter (character)",
+      "wikiPt": "Harry Potter"
     },
     {
       "id": "who-Personagens-23",
@@ -1937,7 +2468,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Hermione Granger",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Hermione_Granger"
+      "source": "https://en.wikipedia.org/wiki/Hermione_Granger",
+      "series": "Harry Potter",
+      "wikiEn": "Hermione Granger",
+      "wikiPt": "Hermione Granger"
     },
     {
       "id": "who-Personagens-24",
@@ -1948,7 +2482,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Darth Vader",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Darth_Vader"
+      "source": "https://en.wikipedia.org/wiki/Darth_Vader",
+      "series": "Star Wars",
+      "wikiEn": "Darth Vader",
+      "wikiPt": "Darth Vader"
     },
     {
       "id": "who-Personagens-25",
@@ -1959,7 +2496,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Yoda",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Yoda"
+      "source": "https://en.wikipedia.org/wiki/Yoda",
+      "series": "Star Wars",
+      "wikiEn": "Yoda",
+      "wikiPt": "Yoda"
     },
     {
       "id": "who-Personagens-26",
@@ -1970,7 +2510,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Goku",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Goku"
+      "source": "https://en.wikipedia.org/wiki/Goku",
+      "series": "Dragon Ball",
+      "wikiEn": "Goku",
+      "wikiPt": "Goku"
     },
     {
       "id": "who-Personagens-27",
@@ -1981,7 +2524,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Vegeta",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Vegeta"
+      "source": "https://en.wikipedia.org/wiki/Vegeta",
+      "series": "Dragon Ball",
+      "wikiEn": "Vegeta",
+      "wikiPt": "Vegeta"
     },
     {
       "id": "who-Personagens-28",
@@ -1992,7 +2538,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Naruto Uzumaki",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+      "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki",
+      "series": "Naruto",
+      "wikiEn": "Naruto Uzumaki",
+      "wikiPt": "Naruto"
     },
     {
       "id": "who-Personagens-29",
@@ -2003,7 +2552,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Monkey D. Luffy",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Monkey_D._Luffy"
+      "source": "https://en.wikipedia.org/wiki/Monkey_D._Luffy",
+      "series": "One Piece",
+      "wikiEn": "Monkey D. Luffy",
+      "wikiPt": "Luffy"
     },
     {
       "id": "who-Personagens-30",
@@ -2014,7 +2566,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Scooby-Doo (character)",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Scooby-Doo_(character)"
+      "source": "https://en.wikipedia.org/wiki/Scooby-Doo_(character)",
+      "series": "Scooby-Doo",
+      "wikiEn": "Scooby-Doo (character)",
+      "wikiPt": "Scooby-Doo"
     },
     {
       "id": "who-Personagens-31",
@@ -2025,7 +2580,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Tom Cat",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Tom_Cat"
+      "source": "https://en.wikipedia.org/wiki/Tom_Cat",
+      "series": "Tom e Jerry",
+      "wikiEn": "Tom Cat",
+      "wikiPt": "Tom (Tom e Jerry)"
     },
     {
       "id": "who-Personagens-32",
@@ -2036,7 +2594,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Jerry Mouse",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Jerry_Mouse"
+      "source": "https://en.wikipedia.org/wiki/Jerry_Mouse",
+      "series": "Tom e Jerry",
+      "wikiEn": "Jerry Mouse",
+      "wikiPt": "Jerry (Tom e Jerry)"
     },
     {
       "id": "who-Personagens-33",
@@ -2047,7 +2608,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Homer Simpson",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Homer_Simpson"
+      "source": "https://en.wikipedia.org/wiki/Homer_Simpson",
+      "series": "Os Simpsons",
+      "wikiEn": "Homer Simpson",
+      "wikiPt": "Homer Simpson"
     },
     {
       "id": "who-Personagens-34",
@@ -2058,7 +2622,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Bart Simpson",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Bart_Simpson"
+      "source": "https://en.wikipedia.org/wiki/Bart_Simpson",
+      "series": "Os Simpsons",
+      "wikiEn": "Bart Simpson",
+      "wikiPt": "Bart Simpson"
     },
     {
       "id": "who-Personagens-35",
@@ -2069,18 +2636,24 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Garfield (character)",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Garfield_(character)"
+      "source": "https://en.wikipedia.org/wiki/Garfield_(character)",
+      "series": "Garfield",
+      "wikiEn": "Garfield (character)",
+      "wikiPt": "Garfield"
     },
     {
       "id": "who-Personagens-36",
-      "name": "Winnie the Pooh",
+      "name": "Ursinho Pooh",
       "category": "Personagens",
       "level": 1,
       "hint": "Personagens",
       "wikiTitle": "Winnie-the-Pooh",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Winnie-the-Pooh"
+      "source": "https://en.wikipedia.org/wiki/Winnie-the-Pooh",
+      "series": "Ursinho Pooh",
+      "wikiEn": "Winnie-the-Pooh",
+      "wikiPt": "Winnie-the-Pooh"
     },
     {
       "id": "who-Personagens-37",
@@ -2091,7 +2664,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Woody (Toy Story)",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Woody_(Toy_Story)"
+      "source": "https://en.wikipedia.org/wiki/Woody_(Toy_Story)",
+      "series": "Toy Story",
+      "wikiEn": "Woody (Toy Story)",
+      "wikiPt": "Woody"
     },
     {
       "id": "who-Personagens-38",
@@ -2102,7 +2678,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "Buzz Lightyear",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/Buzz_Lightyear"
+      "source": "https://en.wikipedia.org/wiki/Buzz_Lightyear",
+      "series": "Toy Story",
+      "wikiEn": "Buzz Lightyear",
+      "wikiPt": "Buzz Lightyear"
     },
     {
       "id": "who-Personagens-39",
@@ -2113,7 +2692,10 @@ window.PLAYBOX_CATALOG = {
       "wikiTitle": "El Chavo (character)",
       "wikiLang": "en",
       "image": null,
-      "source": "https://en.wikipedia.org/wiki/El_Chavo_(character)"
+      "source": "https://en.wikipedia.org/wiki/El_Chavo_(character)",
+      "series": "Chaves",
+      "wikiEn": "El Chavo (character)",
+      "wikiPt": "Chaves"
     },
     {
       "id": "who-Personalidades-0",
@@ -2122,7 +2704,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Albert Einstein",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Albert Einstein",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-1",
@@ -2131,7 +2715,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Pelé",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Pelé",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-2",
@@ -2140,7 +2726,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Ayrton Senna",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ayrton Senna",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-3",
@@ -2149,7 +2737,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Cristiano Ronaldo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Cristiano Ronaldo",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-4",
@@ -2158,7 +2748,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Lionel Messi",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Lionel Messi",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-5",
@@ -2167,7 +2759,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Neymar",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Neymar",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-6",
@@ -2176,7 +2770,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Anitta",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Anitta",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-7",
@@ -2185,7 +2781,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Taylor Swift",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Taylor Swift",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-8",
@@ -2194,7 +2792,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Michael Jackson",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Michael Jackson",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-9",
@@ -2203,7 +2803,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Elvis Presley",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Elvis Presley",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-10",
@@ -2212,7 +2814,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Beyoncé",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Beyoncé",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-11",
@@ -2221,7 +2825,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Rihanna",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Rihanna",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-12",
@@ -2230,7 +2836,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Lady Gaga",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Lady Gaga",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-13",
@@ -2239,7 +2847,9 @@ window.PLAYBOX_CATALOG = {
       "level": 3,
       "hint": "Personalidades",
       "wikiTitle": "Freddie Mercury",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Freddie Mercury",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-14",
@@ -2248,7 +2858,9 @@ window.PLAYBOX_CATALOG = {
       "level": 3,
       "hint": "Personalidades",
       "wikiTitle": "Ronaldo Fenômeno",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ronaldo Fenômeno",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-15",
@@ -2257,7 +2869,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Marta",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Marta",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-16",
@@ -2266,7 +2880,9 @@ window.PLAYBOX_CATALOG = {
       "level": 3,
       "hint": "Personalidades",
       "wikiTitle": "William Shakespeare",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "William Shakespeare",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-17",
@@ -2275,7 +2891,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Personalidades",
       "wikiTitle": "Leonardo da Vinci",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Leonardo da Vinci",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-18",
@@ -2284,7 +2902,9 @@ window.PLAYBOX_CATALOG = {
       "level": 2,
       "hint": "Personalidades",
       "wikiTitle": "Frida Kahlo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Frida Kahlo",
+      "wikiEn": null
     },
     {
       "id": "who-Personalidades-19",
@@ -2293,7 +2913,9 @@ window.PLAYBOX_CATALOG = {
       "level": 3,
       "hint": "Personalidades",
       "wikiTitle": "Charles Darwin",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Charles Darwin",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-0",
@@ -2302,7 +2924,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Profissões",
       "wikiTitle": "Dentista",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Dentista",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-1",
@@ -2311,7 +2935,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Profissões",
       "wikiTitle": "Astronauta",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Astronauta",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-2",
@@ -2320,7 +2946,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Profissões",
       "wikiTitle": "Bombeiro",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Bombeiro",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-3",
@@ -2329,7 +2957,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Profissões",
       "wikiTitle": "Professor",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Professor",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-4",
@@ -2338,7 +2968,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Profissões",
       "wikiTitle": "Cozinheiro",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Cozinheiro",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-5",
@@ -2347,7 +2979,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Profissões",
       "wikiTitle": "Médico",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Médico",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-6",
@@ -2356,7 +2990,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Profissões",
       "wikiTitle": "Motorista",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Motorista",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-7",
@@ -2365,7 +3001,9 @@ window.PLAYBOX_CATALOG = {
       "level": 2,
       "hint": "Profissões",
       "wikiTitle": "Fotógrafo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Fotógrafo",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-8",
@@ -2374,7 +3012,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Profissões",
       "wikiTitle": "Veterinário",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Veterinário",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-9",
@@ -2383,7 +3023,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Profissões",
       "wikiTitle": "Músico",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Músico",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-10",
@@ -2392,7 +3034,9 @@ window.PLAYBOX_CATALOG = {
       "level": 1,
       "hint": "Profissões",
       "wikiTitle": "Pintor",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Pintor",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-11",
@@ -2401,7 +3045,9 @@ window.PLAYBOX_CATALOG = {
       "level": 2,
       "hint": "Profissões",
       "wikiTitle": "Carteiro",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Carteiro",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-12",
@@ -2410,7 +3056,9 @@ window.PLAYBOX_CATALOG = {
       "level": 2,
       "hint": "Profissões",
       "wikiTitle": "Jardineiro",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Jardineiro",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-13",
@@ -2419,7 +3067,9 @@ window.PLAYBOX_CATALOG = {
       "level": 2,
       "hint": "Profissões",
       "wikiTitle": "Arquiteto",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Arquiteto",
+      "wikiEn": null
     },
     {
       "id": "who-Profissões-14",
@@ -2428,7 +3078,9 @@ window.PLAYBOX_CATALOG = {
       "level": 2,
       "hint": "Profissões",
       "wikiTitle": "Detetive",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Detetive",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-0",
@@ -2437,7 +3089,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Gato",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-1",
@@ -2446,7 +3100,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Cachorro",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-2",
@@ -2455,7 +3111,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Coelho",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-3",
@@ -2464,7 +3122,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Tartaruga",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-4",
@@ -2473,7 +3133,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Polvo",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-5",
@@ -2482,7 +3144,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Sapo",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-6",
@@ -2491,7 +3155,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Panda",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-7",
@@ -2500,7 +3166,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Pinguim",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-8",
@@ -2509,7 +3177,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Raposa",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-9",
@@ -2518,7 +3188,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Leão",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-10",
@@ -2527,7 +3199,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Elefante",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-11",
@@ -2536,7 +3210,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Girafa",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-12",
@@ -2545,7 +3221,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Crocodilo",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-13",
@@ -2554,7 +3232,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Coruja",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-14",
@@ -2563,7 +3243,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Ouriço",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-15",
@@ -2572,7 +3254,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Borboleta",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-16",
@@ -2581,7 +3265,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Tiranossauro",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-17",
@@ -2590,7 +3276,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Caranguejo",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-18",
@@ -2599,7 +3287,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Abelha",
+      "wikiEn": null
     },
     {
       "id": "who-Animais-19",
@@ -2608,7 +3298,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Animais",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Peixe",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-0",
@@ -2617,7 +3309,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Pizza",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-1",
@@ -2626,7 +3320,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Hambúrguer",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-2",
@@ -2635,7 +3331,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Donut",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-3",
@@ -2644,7 +3342,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Sorvete",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-4",
@@ -2653,7 +3353,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Melancia",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-5",
@@ -2662,7 +3364,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Morango",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-6",
@@ -2671,7 +3375,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Banana",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-7",
@@ -2680,7 +3386,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Uvas",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-8",
@@ -2689,7 +3397,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Abacate",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-9",
@@ -2698,7 +3408,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Cogumelo",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-10",
@@ -2707,7 +3419,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Croissant",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-11",
@@ -2716,7 +3430,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Bolo",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-12",
@@ -2725,7 +3441,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Taco",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-13",
@@ -2734,7 +3452,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Pipoca",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-14",
@@ -2743,7 +3463,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Abacaxi",
+      "wikiEn": null
     },
     {
       "id": "who-Comidas-15",
@@ -2752,7 +3474,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Comidas",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Cenoura",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-0",
@@ -2761,7 +3485,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Foguete",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-1",
@@ -2770,7 +3496,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Carro",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-2",
@@ -2779,7 +3507,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Trem",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-3",
@@ -2788,7 +3518,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Avião",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-4",
@@ -2797,7 +3529,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Barco",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-5",
@@ -2806,7 +3540,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Casa",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-6",
@@ -2815,7 +3551,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 1,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Castelo",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-7",
@@ -2824,7 +3562,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Guitarra",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-8",
@@ -2833,7 +3573,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Balão",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-9",
@@ -2842,7 +3584,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Presente",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-10",
@@ -2851,7 +3595,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Relógio",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-11",
@@ -2860,7 +3606,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Cartola",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-12",
@@ -2869,7 +3617,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Ursinho",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-13",
@@ -2878,7 +3628,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Robô",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-14",
@@ -2887,7 +3639,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Unicórnio",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-15",
@@ -2896,7 +3650,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Mago",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-16",
@@ -2905,7 +3661,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Fantasma",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-17",
@@ -2914,7 +3672,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Sereia",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-18",
@@ -2923,7 +3683,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Coroa",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-19",
@@ -2932,7 +3694,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Disco voador",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-20",
@@ -2941,7 +3705,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Cacto",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-21",
@@ -2950,7 +3716,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Arco-íris",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-22",
@@ -2959,7 +3727,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Boneco de neve",
+      "wikiEn": null
     },
     {
       "id": "who-Objetos-23",
@@ -2968,7 +3738,9 @@ window.PLAYBOX_CATALOG = {
       "category": "Objetos",
       "level": 2,
       "hint": "Observe as formas principais e monte a base antes dos detalhes.",
-      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa."
+      "source": "Unicode emoji; renderização do dispositivo, referência ilustrativa.",
+      "wikiPt": "Lâmpada",
+      "wikiEn": null
     },
     {
       "id": "who-pokemon-1",
@@ -2979,7 +3751,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Pokémon. Observe a silhueta e os detalhes característicos.",
       "source": "https://github.com/PokeAPI/sprites",
       "wikiTitle": "Bulbasaur",
-      "wikiLang": "en"
+      "wikiLang": "en",
+      "series": "Pokémon",
+      "wikiEn": "Bulbasaur",
+      "wikiPt": "Bulbasaur"
     },
     {
       "id": "who-pokemon-4",
@@ -2990,7 +3765,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Pokémon. Observe a silhueta e os detalhes característicos.",
       "source": "https://github.com/PokeAPI/sprites",
       "wikiTitle": "Charmander",
-      "wikiLang": "en"
+      "wikiLang": "en",
+      "series": "Pokémon",
+      "wikiEn": "Charmander",
+      "wikiPt": "Charmander"
     },
     {
       "id": "who-pokemon-7",
@@ -3001,7 +3779,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Pokémon. Observe a silhueta e os detalhes característicos.",
       "source": "https://github.com/PokeAPI/sprites",
       "wikiTitle": "Squirtle",
-      "wikiLang": "en"
+      "wikiLang": "en",
+      "series": "Pokémon",
+      "wikiEn": "Squirtle",
+      "wikiPt": "Squirtle"
     },
     {
       "id": "who-pokemon-133",
@@ -3012,7 +3793,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Pokémon. Observe a silhueta e os detalhes característicos.",
       "source": "https://github.com/PokeAPI/sprites",
       "wikiTitle": "Eevee",
-      "wikiLang": "en"
+      "wikiLang": "en",
+      "series": "Pokémon",
+      "wikiEn": "Eevee",
+      "wikiPt": "Eevee"
     },
     {
       "id": "who-pokemon-143",
@@ -3023,7 +3807,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Pokémon. Observe a silhueta e os detalhes característicos.",
       "source": "https://github.com/PokeAPI/sprites",
       "wikiTitle": "Snorlax",
-      "wikiLang": "en"
+      "wikiLang": "en",
+      "series": "Pokémon",
+      "wikiEn": "Snorlax",
+      "wikiPt": "Snorlax"
     },
     {
       "id": "who-pokemon-6",
@@ -3034,7 +3821,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Pokémon. Observe a silhueta e os detalhes característicos.",
       "source": "https://github.com/PokeAPI/sprites",
       "wikiTitle": "Charizard",
-      "wikiLang": "en"
+      "wikiLang": "en",
+      "series": "Pokémon",
+      "wikiEn": "Charizard",
+      "wikiPt": "Charizard"
     },
     {
       "id": "who-expanded-1",
@@ -3045,7 +3835,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Bugs_Bunny",
       "wikiTitle": "Bugs Bunny",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Looney Tunes",
+      "wikiEn": "Bugs Bunny",
+      "wikiPt": "Pernalonga"
     },
     {
       "id": "who-expanded-2",
@@ -3056,7 +3849,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Tweety",
       "wikiTitle": "Tweety",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Looney Tunes",
+      "wikiEn": "Tweety",
+      "wikiPt": "Piu-Piu"
     },
     {
       "id": "who-expanded-3",
@@ -3067,7 +3863,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Sylvester_the_Cat",
       "wikiTitle": "Sylvester the Cat",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Looney Tunes",
+      "wikiEn": "Sylvester the Cat",
+      "wikiPt": "Frajola"
     },
     {
       "id": "who-expanded-4",
@@ -3077,7 +3876,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Patolino",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Looney Tunes",
+      "wikiEn": "Daffy Duck",
+      "wikiPt": "Patolino"
     },
     {
       "id": "who-expanded-5",
@@ -3087,7 +3889,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Taz",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Looney Tunes",
+      "wikiEn": "Taz",
+      "wikiPt": "Taz"
     },
     {
       "id": "who-expanded-6",
@@ -3098,7 +3903,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Wile_E._Coyote_and_the_Road_Runner",
       "wikiTitle": "Wile E. Coyote and the Road Runner",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Looney Tunes",
+      "wikiEn": "Wile E. Coyote and the Road Runner",
+      "wikiPt": "Papa-Léguas"
     },
     {
       "id": "who-expanded-7",
@@ -3108,7 +3916,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Coiote",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Looney Tunes",
+      "wikiEn": "Wile E. Coyote and the Road Runner",
+      "wikiPt": "Coiote"
     },
     {
       "id": "who-expanded-8",
@@ -3119,7 +3930,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Popeye",
       "wikiTitle": "Popeye",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Popeye",
+      "wikiEn": "Popeye",
+      "wikiPt": "Popeye"
     },
     {
       "id": "who-expanded-9",
@@ -3129,7 +3943,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Olívia Palito",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Popeye",
+      "wikiEn": "Olívia Palito",
+      "wikiPt": "Olívia Palito"
     },
     {
       "id": "who-expanded-10",
@@ -3139,7 +3956,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Brutus",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Popeye",
+      "wikiEn": "Brutus",
+      "wikiPt": "Brutus (Popeye)"
     },
     {
       "id": "who-expanded-11",
@@ -3149,7 +3969,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Betty Boop",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Betty Boop",
+      "wikiEn": "Betty Boop",
+      "wikiPt": "Betty Boop"
     },
     {
       "id": "who-expanded-12",
@@ -3159,7 +3982,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Zé Colmeia",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Zé Colmeia",
+      "wikiEn": "Zé Colmeia",
+      "wikiPt": "Zé Colmeia"
     },
     {
       "id": "who-expanded-13",
@@ -3169,7 +3995,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Catatau",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Zé Colmeia",
+      "wikiEn": "Catatau",
+      "wikiPt": "Catatau"
     },
     {
       "id": "who-expanded-14",
@@ -3179,7 +4008,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Manda-Chuva",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Manda-Chuva",
+      "wikiEn": "Manda-Chuva",
+      "wikiPt": "Manda-Chuva"
     },
     {
       "id": "who-expanded-15",
@@ -3189,7 +4021,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Fred Flintstone",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Flintstones",
+      "wikiEn": "Fred Flintstone",
+      "wikiPt": "Fred Flintstone"
     },
     {
       "id": "who-expanded-16",
@@ -3199,7 +4034,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Wilma Flintstone",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Flintstones",
+      "wikiEn": "Wilma Flintstone",
+      "wikiPt": "Wilma Flintstone"
     },
     {
       "id": "who-expanded-17",
@@ -3209,7 +4047,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Barney Rubble",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Flintstones",
+      "wikiEn": "Barney Rubble",
+      "wikiPt": "Barney Rubble"
     },
     {
       "id": "who-expanded-18",
@@ -3219,7 +4060,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Pedrita",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Flintstones",
+      "wikiEn": "Pedrita",
+      "wikiPt": "Pedrita"
     },
     {
       "id": "who-expanded-19",
@@ -3229,7 +4073,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "George Jetson",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Jetsons",
+      "wikiEn": "George Jetson",
+      "wikiPt": "George Jetson"
     },
     {
       "id": "who-expanded-20",
@@ -3239,17 +4086,23 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Judy Jetson",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Jetsons",
+      "wikiEn": "Judy Jetson",
+      "wikiPt": "Judy Jetson"
     },
     {
       "id": "who-expanded-21",
-      "name": "Astro dos Jetsons",
+      "name": "Astro",
       "category": "Personagens de animação",
       "level": 3,
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Astro dos Jetsons",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Jetsons",
+      "wikiEn": "Astro dos Jetsons",
+      "wikiPt": "Astro"
     },
     {
       "id": "who-expanded-22",
@@ -3260,7 +4113,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Monica_(Monica's_Gang)",
       "wikiTitle": "Monica (Monica's Gang)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Turma da Mônica",
+      "wikiEn": "Monica (Monica's Gang)",
+      "wikiPt": "Mônica (Turma da Mônica)"
     },
     {
       "id": "who-expanded-23",
@@ -3271,7 +4127,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Jimmy_Five",
       "wikiTitle": "Jimmy Five",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Turma da Mônica",
+      "wikiEn": "Jimmy Five",
+      "wikiPt": "Cebolinha"
     },
     {
       "id": "who-expanded-24",
@@ -3282,7 +4141,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Smudge_(Monica's_Gang)",
       "wikiTitle": "Smudge (Monica's Gang)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Turma da Mônica",
+      "wikiEn": "Smudge (Monica's Gang)",
+      "wikiPt": "Cascão"
     },
     {
       "id": "who-expanded-25",
@@ -3293,7 +4155,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Maggy_(Monica's_Gang)",
       "wikiTitle": "Maggy (Monica's Gang)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Turma da Mônica",
+      "wikiEn": "Maggy (Monica's Gang)",
+      "wikiPt": "Magali"
     },
     {
       "id": "who-expanded-26",
@@ -3304,7 +4169,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Chuck_Billy",
       "wikiTitle": "Chuck Billy",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Turma da Mônica",
+      "wikiEn": "Chuck Billy",
+      "wikiPt": "Chico Bento"
     },
     {
       "id": "who-expanded-27",
@@ -3314,7 +4182,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rosinha",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Rosinha",
+      "wikiPt": "Rosinha"
     },
     {
       "id": "who-expanded-28",
@@ -3324,7 +4195,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Franjinha",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Franjinha",
+      "wikiPt": "Franjinha"
     },
     {
       "id": "who-expanded-29",
@@ -3334,7 +4208,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bidu",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Bidu",
+      "wikiPt": "Bidu"
     },
     {
       "id": "who-expanded-30",
@@ -3344,7 +4221,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sansão",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Sansão",
+      "wikiPt": "Sansão (Turma da Mônica)"
     },
     {
       "id": "who-expanded-31",
@@ -3354,7 +4234,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Penadinho",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Penadinho",
+      "wikiPt": "Penadinho"
     },
     {
       "id": "who-expanded-32",
@@ -3364,7 +4247,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Horácio",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Horácio",
+      "wikiPt": "Horácio"
     },
     {
       "id": "who-expanded-33",
@@ -3374,7 +4260,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rolo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Rolo",
+      "wikiPt": "Rolo (Turma da Mônica)"
     },
     {
       "id": "who-expanded-34",
@@ -3384,7 +4273,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tina",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Tina",
+      "wikiPt": "Tina (Turma da Mônica)"
     },
     {
       "id": "who-expanded-35",
@@ -3394,7 +4286,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Anjinho",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Anjinho",
+      "wikiPt": "Anjinho (Turma da Mônica)"
     },
     {
       "id": "who-expanded-36",
@@ -3404,7 +4299,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dudu",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Dudu",
+      "wikiPt": "Dudu (Turma da Mônica)"
     },
     {
       "id": "who-expanded-37",
@@ -3414,7 +4312,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Louco",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Louco",
+      "wikiPt": "Louco (Turma da Mônica)"
     },
     {
       "id": "who-expanded-38",
@@ -3424,7 +4325,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Capitão Feio",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Turma da Mônica",
+      "wikiEn": "Capitão Feio",
+      "wikiPt": "Capitão Feio"
     },
     {
       "id": "who-expanded-39",
@@ -3435,7 +4339,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Snoopy",
       "wikiTitle": "Snoopy",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Peanuts",
+      "wikiEn": "Snoopy",
+      "wikiPt": "Snoopy"
     },
     {
       "id": "who-expanded-40",
@@ -3445,7 +4352,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Charlie Brown",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Peanuts",
+      "wikiEn": "Charlie Brown",
+      "wikiPt": "Charlie Brown"
     },
     {
       "id": "who-expanded-41",
@@ -3455,7 +4365,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Woodstock",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Peanuts",
+      "wikiEn": "Woodstock",
+      "wikiPt": "Woodstock"
     },
     {
       "id": "who-expanded-42",
@@ -3465,7 +4378,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Lucy",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Peanuts",
+      "wikiEn": "Lucy",
+      "wikiPt": "Lucy (Peanuts)"
     },
     {
       "id": "who-expanded-43",
@@ -3475,7 +4391,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Linus",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Peanuts",
+      "wikiEn": "Linus",
+      "wikiPt": "Linus (Peanuts)"
     },
     {
       "id": "who-expanded-44",
@@ -3486,7 +4405,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Pingu",
       "wikiTitle": "Pingu",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Pingu",
+      "wikiEn": "Pingu",
+      "wikiPt": "Pingu"
     },
     {
       "id": "who-expanded-45",
@@ -3497,7 +4419,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Peppa_Pig",
       "wikiTitle": "Peppa Pig",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Peppa Pig",
+      "wikiEn": "Peppa Pig",
+      "wikiPt": "Peppa Pig"
     },
     {
       "id": "who-expanded-46",
@@ -3507,7 +4432,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "George Pig",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Peppa Pig",
+      "wikiEn": "George Pig",
+      "wikiPt": "George Pig"
     },
     {
       "id": "who-expanded-47",
@@ -3518,7 +4446,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Dora_the_Explorer",
       "wikiTitle": "Dora the Explorer",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Dora, a Aventureira",
+      "wikiEn": "Dora the Explorer",
+      "wikiPt": "Dora, a Aventureira"
     },
     {
       "id": "who-expanded-48",
@@ -3528,7 +4459,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Botas",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Dora, a Aventureira",
+      "wikiEn": "Botas",
+      "wikiPt": "Botas (Dora, a Aventureira)"
     },
     {
       "id": "who-expanded-49",
@@ -3538,7 +4472,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ben 10",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Ben 10",
+      "wikiEn": "Ben 10",
+      "wikiPt": "Ben 10"
     },
     {
       "id": "who-expanded-50",
@@ -3549,7 +4486,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Finn_the_Human",
       "wikiTitle": "Finn the Human",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Hora de Aventura",
+      "wikiEn": "Finn the Human",
+      "wikiPt": "Finn (Hora de Aventura)"
     },
     {
       "id": "who-expanded-51",
@@ -3560,7 +4500,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Jake_the_Dog",
       "wikiTitle": "Jake the Dog",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Hora de Aventura",
+      "wikiEn": "Jake the Dog",
+      "wikiPt": "Jake (Hora de Aventura)"
     },
     {
       "id": "who-expanded-52",
@@ -3570,7 +4513,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Princesa Jujuba",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Hora de Aventura",
+      "wikiEn": "Princess Bubblegum",
+      "wikiPt": "Princesa Jujuba"
     },
     {
       "id": "who-expanded-53",
@@ -3580,7 +4526,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Marceline",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Hora de Aventura",
+      "wikiEn": "Marceline",
+      "wikiPt": "Marceline"
     },
     {
       "id": "who-expanded-54",
@@ -3590,7 +4539,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rei Gelado",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Hora de Aventura",
+      "wikiEn": "Ice King",
+      "wikiPt": "Rei Gelado"
     },
     {
       "id": "who-expanded-55",
@@ -3600,7 +4552,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mordecai",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Apenas um Show",
+      "wikiEn": "Mordecai",
+      "wikiPt": "Mordecai"
     },
     {
       "id": "who-expanded-56",
@@ -3610,7 +4565,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rigby",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Apenas um Show",
+      "wikiEn": "Rigby",
+      "wikiPt": "Rigby"
     },
     {
       "id": "who-expanded-57",
@@ -3621,7 +4579,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Gumball_Watterson",
       "wikiTitle": "Gumball Watterson",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "O Incrível Mundo de Gumball",
+      "wikiEn": "Gumball Watterson",
+      "wikiPt": "Gumball"
     },
     {
       "id": "who-expanded-58",
@@ -3632,7 +4593,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Darwin_Watterson",
       "wikiTitle": "Darwin Watterson",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "O Incrível Mundo de Gumball",
+      "wikiEn": "Darwin Watterson",
+      "wikiPt": "Darwin (O Incrível Mundo de Gumball)"
     },
     {
       "id": "who-expanded-59",
@@ -3642,7 +4606,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Steven Universo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Steven Universo",
+      "wikiEn": "Steven Universo",
+      "wikiPt": "Steven Universo"
     },
     {
       "id": "who-expanded-60",
@@ -3652,7 +4619,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Pérola",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Steven Universo",
+      "wikiEn": "Pérola",
+      "wikiPt": "Pérola (Steven Universo)"
     },
     {
       "id": "who-expanded-61",
@@ -3662,7 +4632,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Garnet",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Steven Universo",
+      "wikiEn": "Garnet",
+      "wikiPt": "Garnet"
     },
     {
       "id": "who-expanded-62",
@@ -3672,7 +4645,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ametista",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Steven Universo",
+      "wikiEn": "Ametista",
+      "wikiPt": "Ametista"
     },
     {
       "id": "who-expanded-63",
@@ -3683,7 +4659,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Courage_the_Cowardly_Dog",
       "wikiTitle": "Courage the Cowardly Dog",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Coragem, o Cão Covarde",
+      "wikiEn": "Courage the Cowardly Dog",
+      "wikiPt": "Coragem, o Cão Covarde"
     },
     {
       "id": "who-expanded-64",
@@ -3693,7 +4672,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Johnny Bravo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Johnny Bravo",
+      "wikiEn": "Johnny Bravo",
+      "wikiPt": "Johnny Bravo"
     },
     {
       "id": "who-expanded-65",
@@ -3703,7 +4685,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dexter",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Laboratório de Dexter",
+      "wikiEn": "Dexter",
+      "wikiPt": "Dexter"
     },
     {
       "id": "who-expanded-66",
@@ -3713,7 +4698,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dee Dee",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Laboratório de Dexter",
+      "wikiEn": "Dee Dee",
+      "wikiPt": "Dee Dee"
     },
     {
       "id": "who-expanded-67",
@@ -3723,7 +4711,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Florzinha",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "As Meninas Superpoderosas",
+      "wikiEn": "Blossom (The Powerpuff Girls)",
+      "wikiPt": "Florzinha"
     },
     {
       "id": "who-expanded-68",
@@ -3733,7 +4724,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Lindinha",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "As Meninas Superpoderosas",
+      "wikiEn": "Bubbles (The Powerpuff Girls)",
+      "wikiPt": "Lindinha"
     },
     {
       "id": "who-expanded-69",
@@ -3743,7 +4737,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Docinho",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "As Meninas Superpoderosas",
+      "wikiEn": "Buttercup (The Powerpuff Girls)",
+      "wikiPt": "Docinho"
     },
     {
       "id": "who-expanded-70",
@@ -3753,7 +4750,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Samurai Jack",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Samurai Jack",
+      "wikiEn": "Samurai Jack",
+      "wikiPt": "Samurai Jack"
     },
     {
       "id": "who-expanded-71",
@@ -3763,7 +4763,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ed",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Du, Dudu e Edu",
+      "wikiEn": "Ed",
+      "wikiPt": "Ed"
     },
     {
       "id": "who-expanded-72",
@@ -3773,7 +4776,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Edd",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Du, Dudu e Edu",
+      "wikiEn": "Edd",
+      "wikiPt": "Edd"
     },
     {
       "id": "who-expanded-73",
@@ -3783,7 +4789,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Eddy",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Du, Dudu e Edu",
+      "wikiEn": "Eddy",
+      "wikiPt": "Eddy"
     },
     {
       "id": "who-expanded-74",
@@ -3793,7 +4802,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "He-Man",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "He-Man",
+      "wikiEn": "He-Man",
+      "wikiPt": "He-Man"
     },
     {
       "id": "who-expanded-75",
@@ -3803,7 +4815,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "She-Ra",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "She-Ra",
+      "wikiEn": "She-Ra",
+      "wikiPt": "She-Ra"
     },
     {
       "id": "who-expanded-76",
@@ -3813,7 +4828,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Esqueleto",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "He-Man",
+      "wikiEn": "Esqueleto",
+      "wikiPt": "Esqueleto (He-Man)"
     },
     {
       "id": "who-expanded-77",
@@ -3823,7 +4841,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Lion-O",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "ThunderCats",
+      "wikiEn": "Lion-O",
+      "wikiPt": "Lion-O"
     },
     {
       "id": "who-expanded-78",
@@ -3833,7 +4854,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Cheetara",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "ThunderCats",
+      "wikiEn": "Cheetara",
+      "wikiPt": "Cheetara"
     },
     {
       "id": "who-expanded-79",
@@ -3843,7 +4867,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Optimus Prime",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Transformers",
+      "wikiEn": "Optimus Prime",
+      "wikiPt": "Optimus Prime"
     },
     {
       "id": "who-expanded-80",
@@ -3853,7 +4880,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bumblebee",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Transformers",
+      "wikiEn": "Bumblebee",
+      "wikiPt": "Bumblebee"
     },
     {
       "id": "who-expanded-81",
@@ -3863,27 +4893,36 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Megatron",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Transformers",
+      "wikiEn": "Megatron",
+      "wikiPt": "Megatron"
     },
     {
       "id": "who-expanded-82",
-      "name": "Leonardo das Tartarugas Ninja",
+      "name": "Leonardo",
       "category": "Personagens de animação",
       "level": 3,
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Leonardo das Tartarugas Ninja",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Tartarugas Ninja",
+      "wikiEn": "Leonardo das Tartarugas Ninja",
+      "wikiPt": "Leonardo"
     },
     {
       "id": "who-expanded-83",
-      "name": "Michelangelo das Tartarugas Ninja",
+      "name": "Michelangelo",
       "category": "Personagens de animação",
       "level": 3,
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Michelangelo das Tartarugas Ninja",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Tartarugas Ninja",
+      "wikiEn": "Michelangelo das Tartarugas Ninja",
+      "wikiPt": "Michelangelo"
     },
     {
       "id": "who-expanded-84",
@@ -3893,7 +4932,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Donatello",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Tartarugas Ninja",
+      "wikiEn": "Donatello",
+      "wikiPt": "Donatello"
     },
     {
       "id": "who-expanded-85",
@@ -3903,7 +4945,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Raphael",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Tartarugas Ninja",
+      "wikiEn": "Raphael",
+      "wikiPt": "Raphael"
     },
     {
       "id": "who-expanded-86",
@@ -3913,7 +4958,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mestre Splinter",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Tartarugas Ninja",
+      "wikiEn": "Mestre Splinter",
+      "wikiPt": "Mestre Splinter"
     },
     {
       "id": "who-expanded-87",
@@ -3923,7 +4971,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Destruidor",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Tartarugas Ninja",
+      "wikiEn": "Destruidor",
+      "wikiPt": "Destruidor"
     },
     {
       "id": "who-expanded-88",
@@ -3933,7 +4984,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ash Ketchum",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Pokémon",
+      "wikiEn": "Ash Ketchum",
+      "wikiPt": "Ash Ketchum"
     },
     {
       "id": "who-expanded-89",
@@ -3943,7 +4997,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Misty",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Pokémon",
+      "wikiEn": "Misty",
+      "wikiPt": "Misty (Pokémon)"
     },
     {
       "id": "who-expanded-90",
@@ -3953,27 +5010,36 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Brock",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Pokémon",
+      "wikiEn": "Brock",
+      "wikiPt": "Brock (Pokémon)"
     },
     {
       "id": "who-expanded-91",
-      "name": "Jessie da Equipe Rocket",
+      "name": "Jessie",
       "category": "Personagens de animação",
       "level": 3,
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jessie da Equipe Rocket",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Pokémon",
+      "wikiEn": "Jessie da Equipe Rocket",
+      "wikiPt": "Jessie (Pokémon)"
     },
     {
       "id": "who-expanded-92",
-      "name": "James da Equipe Rocket",
+      "name": "James",
       "category": "Personagens de animação",
       "level": 3,
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "James da Equipe Rocket",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Pokémon",
+      "wikiEn": "James da Equipe Rocket",
+      "wikiPt": "James (Pokémon)"
     },
     {
       "id": "who-expanded-93",
@@ -3984,7 +5050,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/My_Neighbor_Totoro",
       "wikiTitle": "My Neighbor Totoro",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Meu Amigo Totoro",
+      "wikiEn": "My Neighbor Totoro",
+      "wikiPt": "Totoro"
     },
     {
       "id": "who-expanded-94",
@@ -3994,7 +5063,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kiki",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Serviço de Entregas da Kiki",
+      "wikiEn": "Kiki",
+      "wikiPt": "Kiki"
     },
     {
       "id": "who-expanded-95",
@@ -4004,7 +5076,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Chihiro",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Viagem de Chihiro",
+      "wikiEn": "Chihiro",
+      "wikiPt": "Chihiro"
     },
     {
       "id": "who-expanded-96",
@@ -4014,17 +5089,23 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ponyo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Ponyo",
+      "wikiEn": "Ponyo",
+      "wikiPt": "Ponyo"
     },
     {
       "id": "who-expanded-97",
-      "name": "No-Face",
+      "name": "Sem-Rosto",
       "category": "Personagens de animação",
       "level": 3,
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "No-Face",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Viagem de Chihiro",
+      "wikiEn": "No-Face",
+      "wikiPt": "Sem-Rosto"
     },
     {
       "id": "who-expanded-98",
@@ -4034,7 +5115,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Aang",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Avatar: A Lenda de Aang",
+      "wikiEn": "Aang",
+      "wikiPt": "Aang"
     },
     {
       "id": "who-expanded-99",
@@ -4044,7 +5128,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Katara",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Avatar: A Lenda de Aang",
+      "wikiEn": "Katara",
+      "wikiPt": "Katara"
     },
     {
       "id": "who-expanded-100",
@@ -4054,7 +5141,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Zuko",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Avatar: A Lenda de Aang",
+      "wikiEn": "Zuko",
+      "wikiPt": "Zuko"
     },
     {
       "id": "who-expanded-101",
@@ -4064,7 +5154,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Toph",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Avatar: A Lenda de Aang",
+      "wikiEn": "Toph",
+      "wikiPt": "Toph"
     },
     {
       "id": "who-expanded-102",
@@ -4074,7 +5167,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sokka",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Avatar: A Lenda de Aang",
+      "wikiEn": "Sokka",
+      "wikiPt": "Sokka"
     },
     {
       "id": "who-expanded-103",
@@ -4084,7 +5180,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personagens de animação",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Korra",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Lenda de Korra",
+      "wikiEn": "Korra",
+      "wikiPt": "Korra"
     },
     {
       "id": "who-expanded-104",
@@ -4094,7 +5193,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Aladdin",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Aladdin",
+      "wikiEn": "Aladdin",
+      "wikiPt": "Aladdin"
     },
     {
       "id": "who-expanded-105",
@@ -4104,7 +5206,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jasmine",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Aladdin",
+      "wikiEn": "Jasmine",
+      "wikiPt": "Jasmine"
     },
     {
       "id": "who-expanded-106",
@@ -4114,7 +5219,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gênio da Lâmpada",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Aladdin",
+      "wikiEn": "Gênio da Lâmpada",
+      "wikiPt": "Gênio da Lâmpada (Aladdin)"
     },
     {
       "id": "who-expanded-107",
@@ -4124,7 +5232,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ariel",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Pequena Sereia",
+      "wikiEn": "Ariel",
+      "wikiPt": "Ariel (Disney)"
     },
     {
       "id": "who-expanded-108",
@@ -4134,7 +5245,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Úrsula",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Pequena Sereia",
+      "wikiEn": "Úrsula",
+      "wikiPt": "Úrsula"
     },
     {
       "id": "who-expanded-109",
@@ -4144,7 +5258,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sebastião",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Pequena Sereia",
+      "wikiEn": "Sebastião",
+      "wikiPt": "Sebastião"
     },
     {
       "id": "who-expanded-110",
@@ -4154,7 +5271,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bela",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Bela e a Fera",
+      "wikiEn": "Bela",
+      "wikiPt": "Bela (Disney)"
     },
     {
       "id": "who-expanded-111",
@@ -4164,7 +5284,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Fera",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Bela e a Fera",
+      "wikiEn": "Fera",
+      "wikiPt": "Fera (A Bela e a Fera)"
     },
     {
       "id": "who-expanded-112",
@@ -4174,7 +5297,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gaston",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Bela e a Fera",
+      "wikiEn": "Gaston",
+      "wikiPt": "Gaston"
     },
     {
       "id": "who-expanded-113",
@@ -4184,7 +5310,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Cinderela",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Cinderela",
+      "wikiEn": "Cinderela",
+      "wikiPt": "Cinderela"
     },
     {
       "id": "who-expanded-114",
@@ -4194,7 +5323,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Branca de Neve",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Branca de Neve e os Sete Anões",
+      "wikiEn": "Branca de Neve",
+      "wikiPt": "Branca de Neve"
     },
     {
       "id": "who-expanded-115",
@@ -4204,7 +5336,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rapunzel",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Enrolados",
+      "wikiEn": "Rapunzel",
+      "wikiPt": "Rapunzel"
     },
     {
       "id": "who-expanded-116",
@@ -4215,7 +5350,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Moana_(character)",
       "wikiTitle": "Moana (character)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Moana",
+      "wikiEn": "Moana (character)",
+      "wikiPt": "Moana"
     },
     {
       "id": "who-expanded-117",
@@ -4225,7 +5363,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Maui",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Moana",
+      "wikiEn": "Maui",
+      "wikiPt": "Maui"
     },
     {
       "id": "who-expanded-118",
@@ -4235,7 +5376,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mulan",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Mulan",
+      "wikiEn": "Mulan",
+      "wikiPt": "Mulan"
     },
     {
       "id": "who-expanded-119",
@@ -4245,7 +5389,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mushu",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Mulan",
+      "wikiEn": "Mushu",
+      "wikiPt": "Mushu"
     },
     {
       "id": "who-expanded-120",
@@ -4255,7 +5402,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Pocahontas",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Pocahontas",
+      "wikiEn": "Pocahontas",
+      "wikiPt": "Pocahontas"
     },
     {
       "id": "who-expanded-121",
@@ -4265,7 +5415,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tiana",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Princesa e o Sapo",
+      "wikiEn": "Tiana",
+      "wikiPt": "Tiana"
     },
     {
       "id": "who-expanded-122",
@@ -4275,7 +5428,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Merida",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Valente",
+      "wikiEn": "Merida",
+      "wikiPt": "Merida"
     },
     {
       "id": "who-expanded-123",
@@ -4286,7 +5442,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Simba",
       "wikiTitle": "Simba",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "O Rei Leão",
+      "wikiEn": "Simba",
+      "wikiPt": "Simba"
     },
     {
       "id": "who-expanded-124",
@@ -4296,7 +5455,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Nala",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Rei Leão",
+      "wikiEn": "Nala",
+      "wikiPt": "Nala"
     },
     {
       "id": "who-expanded-125",
@@ -4306,7 +5468,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mufasa",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Rei Leão",
+      "wikiEn": "Mufasa",
+      "wikiPt": "Mufasa"
     },
     {
       "id": "who-expanded-126",
@@ -4316,7 +5481,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Scar",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Rei Leão",
+      "wikiEn": "Scar",
+      "wikiPt": "Scar"
     },
     {
       "id": "who-expanded-127",
@@ -4327,7 +5495,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Timon_and_Pumbaa",
       "wikiTitle": "Timon and Pumbaa",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "O Rei Leão",
+      "wikiEn": "Timon and Pumbaa",
+      "wikiPt": "Timão"
     },
     {
       "id": "who-expanded-128",
@@ -4338,7 +5509,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Timon_and_Pumbaa",
       "wikiTitle": "Timon and Pumbaa",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "O Rei Leão",
+      "wikiEn": "Timon and Pumbaa",
+      "wikiPt": "Pumba"
     },
     {
       "id": "who-expanded-129",
@@ -4348,7 +5522,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bambi",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Bambi",
+      "wikiEn": "Bambi",
+      "wikiPt": "Bambi"
     },
     {
       "id": "who-expanded-130",
@@ -4359,7 +5536,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Dumbo",
       "wikiTitle": "Dumbo",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Dumbo",
+      "wikiEn": "Dumbo",
+      "wikiPt": "Dumbo"
     },
     {
       "id": "who-expanded-131",
@@ -4369,7 +5549,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Pinóquio",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Pinóquio",
+      "wikiEn": "Pinóquio",
+      "wikiPt": "Pinóquio"
     },
     {
       "id": "who-expanded-132",
@@ -4379,7 +5562,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Peter Pan",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Peter Pan",
+      "wikiEn": "Peter Pan",
+      "wikiPt": "Peter Pan"
     },
     {
       "id": "who-expanded-133",
@@ -4389,7 +5575,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sininho",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Peter Pan",
+      "wikiEn": "Tinker Bell",
+      "wikiPt": "Sininho"
     },
     {
       "id": "who-expanded-134",
@@ -4399,17 +5588,23 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Capitão Gancho",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Peter Pan",
+      "wikiEn": "Captain Hook",
+      "wikiPt": "Capitão Gancho"
     },
     {
       "id": "who-expanded-135",
-      "name": "Alice no País das Maravilhas",
+      "name": "Alice",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Alice no País das Maravilhas",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Alice no País das Maravilhas",
+      "wikiEn": "Alice no País das Maravilhas",
+      "wikiPt": "Alice"
     },
     {
       "id": "who-expanded-136",
@@ -4419,7 +5614,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Chapeleiro Maluco",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Alice no País das Maravilhas",
+      "wikiEn": "Mad Hatter",
+      "wikiPt": "Chapeleiro Maluco"
     },
     {
       "id": "who-expanded-137",
@@ -4429,7 +5627,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rainha de Copas",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Alice no País das Maravilhas",
+      "wikiEn": "Queen of Hearts (Alice's Adventures in Wonderland)",
+      "wikiPt": "Rainha de Copas"
     },
     {
       "id": "who-expanded-138",
@@ -4440,7 +5641,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Stitch_(Lilo_%26_Stitch)",
       "wikiTitle": "Stitch (Lilo & Stitch)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Lilo & Stitch",
+      "wikiEn": "Stitch (Lilo & Stitch)",
+      "wikiPt": "Stitch"
     },
     {
       "id": "who-expanded-139",
@@ -4450,7 +5654,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Lilo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Lilo & Stitch",
+      "wikiEn": "Lilo",
+      "wikiPt": "Lilo"
     },
     {
       "id": "who-expanded-140",
@@ -4460,7 +5667,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Hércules",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Hércules",
+      "wikiEn": "Hércules",
+      "wikiPt": "Hércules"
     },
     {
       "id": "who-expanded-141",
@@ -4470,7 +5680,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Hades",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Hércules",
+      "wikiEn": "Hades",
+      "wikiPt": "Hades"
     },
     {
       "id": "who-expanded-142",
@@ -4480,7 +5693,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tarzan",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Tarzan",
+      "wikiEn": "Tarzan",
+      "wikiPt": "Tarzan"
     },
     {
       "id": "who-expanded-143",
@@ -4490,17 +5706,23 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jane Porter",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Tarzan",
+      "wikiEn": "Jane Porter",
+      "wikiPt": "Jane Porter"
     },
     {
       "id": "who-expanded-144",
-      "name": "Anna de Frozen",
+      "name": "Anna",
       "category": "Cinema e TV",
       "level": 2,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Anna de Frozen",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Frozen",
+      "wikiEn": "Anna de Frozen",
+      "wikiPt": "Anna (Frozen)"
     },
     {
       "id": "who-expanded-145",
@@ -4510,7 +5732,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kristoff",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Frozen",
+      "wikiEn": "Kristoff",
+      "wikiPt": "Kristoff"
     },
     {
       "id": "who-expanded-146",
@@ -4520,7 +5745,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sven",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Frozen",
+      "wikiEn": "Sven",
+      "wikiPt": "Sven (Frozen)"
     },
     {
       "id": "who-expanded-147",
@@ -4530,7 +5758,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ralph",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Detona Ralph",
+      "wikiEn": "Ralph",
+      "wikiPt": "Ralph"
     },
     {
       "id": "who-expanded-148",
@@ -4540,7 +5771,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Vanellope",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Detona Ralph",
+      "wikiEn": "Vanellope",
+      "wikiPt": "Vanellope"
     },
     {
       "id": "who-expanded-149",
@@ -4550,7 +5784,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mirabel",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Encanto",
+      "wikiEn": "Mirabel",
+      "wikiPt": "Mirabel"
     },
     {
       "id": "who-expanded-150",
@@ -4560,27 +5797,36 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bruno Madrigal",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Encanto",
+      "wikiEn": "Bruno Madrigal",
+      "wikiPt": "Bruno Madrigal"
     },
     {
       "id": "who-expanded-151",
-      "name": "Miguel de Viva",
+      "name": "Miguel",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Miguel de Viva",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Viva: A Vida é uma Festa",
+      "wikiEn": "Miguel de Viva",
+      "wikiPt": "Miguel (Viva: A Vida é uma Festa)"
     },
     {
       "id": "who-expanded-152",
-      "name": "Héctor de Viva",
+      "name": "Héctor",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Héctor de Viva",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Viva: A Vida é uma Festa",
+      "wikiEn": "Héctor de Viva",
+      "wikiPt": "Héctor (Viva: A Vida é uma Festa)"
     },
     {
       "id": "who-expanded-153",
@@ -4591,7 +5837,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Lightning_McQueen",
       "wikiTitle": "Lightning McQueen",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Carros",
+      "wikiEn": "Lightning McQueen",
+      "wikiPt": "Relâmpago McQueen"
     },
     {
       "id": "who-expanded-154",
@@ -4601,7 +5850,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mate",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Carros",
+      "wikiEn": "Mate",
+      "wikiPt": "Mate"
     },
     {
       "id": "who-expanded-155",
@@ -4612,7 +5864,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Finding_Nemo",
       "wikiTitle": "Finding Nemo",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Procurando Nemo",
+      "wikiEn": "Finding Nemo",
+      "wikiPt": "Nemo (personagem)"
     },
     {
       "id": "who-expanded-156",
@@ -4623,7 +5878,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Dory_(Finding_Nemo)",
       "wikiTitle": "Dory (Finding Nemo)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Procurando Nemo",
+      "wikiEn": "Dory (Finding Nemo)",
+      "wikiPt": "Dory (personagem)"
     },
     {
       "id": "who-expanded-157",
@@ -4633,7 +5891,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Marlin",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Procurando Nemo",
+      "wikiEn": "Marlin",
+      "wikiPt": "Marlin"
     },
     {
       "id": "who-expanded-158",
@@ -4643,7 +5904,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sulley",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Monstros S.A.",
+      "wikiEn": "Sulley",
+      "wikiPt": "Sulley"
     },
     {
       "id": "who-expanded-159",
@@ -4654,7 +5918,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Mike_Wazowski",
       "wikiTitle": "Mike Wazowski",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Monstros S.A.",
+      "wikiEn": "Mike Wazowski",
+      "wikiPt": "Mike Wazowski"
     },
     {
       "id": "who-expanded-160",
@@ -4664,7 +5931,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Boo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Monstros S.A.",
+      "wikiEn": "Boo",
+      "wikiPt": "Boo"
     },
     {
       "id": "who-expanded-161",
@@ -4674,7 +5944,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "WALL-E",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "WALL-E",
+      "wikiEn": "WALL-E",
+      "wikiPt": "WALL-E"
     },
     {
       "id": "who-expanded-162",
@@ -4684,7 +5957,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "EVE",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "WALL-E",
+      "wikiEn": "EVE",
+      "wikiPt": "EVE"
     },
     {
       "id": "who-expanded-163",
@@ -4694,7 +5970,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Carl Fredricksen",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Up: Altas Aventuras",
+      "wikiEn": "Carl Fredricksen",
+      "wikiPt": "Carl Fredricksen"
     },
     {
       "id": "who-expanded-164",
@@ -4704,7 +5983,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Russell",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Up: Altas Aventuras",
+      "wikiEn": "Russell",
+      "wikiPt": "Russell"
     },
     {
       "id": "who-expanded-165",
@@ -4714,7 +5996,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Remy",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Ratatouille",
+      "wikiEn": "Remy",
+      "wikiPt": "Remy"
     },
     {
       "id": "who-expanded-166",
@@ -4724,7 +6009,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Linguini",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Ratatouille",
+      "wikiEn": "Linguini",
+      "wikiPt": "Linguini"
     },
     {
       "id": "who-expanded-167",
@@ -4734,7 +6022,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sr. Incrível",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Incríveis",
+      "wikiEn": "Mr. Incredible",
+      "wikiPt": "Sr. Incrível"
     },
     {
       "id": "who-expanded-168",
@@ -4744,7 +6035,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mulher Elástica",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Incríveis",
+      "wikiEn": "Elastigirl",
+      "wikiPt": "Mulher Elástica"
     },
     {
       "id": "who-expanded-169",
@@ -4754,7 +6048,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Violeta Pêra",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Incríveis",
+      "wikiEn": "Violet Parr",
+      "wikiPt": "Violeta Pêra"
     },
     {
       "id": "who-expanded-170",
@@ -4764,7 +6061,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Flecha",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Incríveis",
+      "wikiEn": "Dash Parr",
+      "wikiPt": "Flecha"
     },
     {
       "id": "who-expanded-171",
@@ -4774,78 +6074,102 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Edna Moda",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Incríveis",
+      "wikiEn": "Edna Moda",
+      "wikiPt": "Edna Moda"
     },
     {
       "id": "who-expanded-172",
-      "name": "Alegria de Divertida Mente",
+      "name": "Alegria",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Alegria de Divertida Mente",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Divertida Mente",
+      "wikiEn": "Joy (Inside Out)",
+      "wikiPt": "Alegria (Divertida Mente)"
     },
     {
       "id": "who-expanded-173",
-      "name": "Tristeza de Divertida Mente",
+      "name": "Tristeza",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tristeza de Divertida Mente",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Divertida Mente",
+      "wikiEn": "Sadness (Inside Out)",
+      "wikiPt": "Tristeza (Divertida Mente)"
     },
     {
       "id": "who-expanded-174",
-      "name": "Raiva de Divertida Mente",
+      "name": "Raiva",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Raiva de Divertida Mente",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Divertida Mente",
+      "wikiEn": "Anger (Inside Out)",
+      "wikiPt": "Raiva (Divertida Mente)"
     },
     {
       "id": "who-expanded-175",
-      "name": "Medo de Divertida Mente",
+      "name": "Medo",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Medo de Divertida Mente",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Divertida Mente",
+      "wikiEn": "Fear (Inside Out)",
+      "wikiPt": "Medo (Divertida Mente)"
     },
     {
       "id": "who-expanded-176",
-      "name": "Nojinho de Divertida Mente",
+      "name": "Nojinho",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Nojinho de Divertida Mente",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Divertida Mente",
+      "wikiEn": "Disgust (Inside Out)",
+      "wikiPt": "Nojinho (Divertida Mente)"
     },
     {
       "id": "who-expanded-177",
-      "name": "Ansiedade de Divertida Mente",
+      "name": "Ansiedade",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ansiedade de Divertida Mente",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Divertida Mente",
+      "wikiEn": "Anxiety (Inside Out 2)",
+      "wikiPt": "Ansiedade (Divertida Mente)"
     },
     {
       "id": "who-expanded-178",
-      "name": "Po de Kung Fu Panda",
+      "name": "Po",
       "category": "Cinema e TV",
       "level": 1,
       "hint": "Cinema e TV",
       "source": "https://en.wikipedia.org/wiki/Po_(Kung_Fu_Panda)",
       "wikiTitle": "Po (Kung Fu Panda)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Kung Fu Panda",
+      "wikiEn": "Po (Kung Fu Panda)",
+      "wikiPt": "Po (Kung Fu Panda)"
     },
     {
       "id": "who-expanded-179",
@@ -4855,7 +6179,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tigresa",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Kung Fu Panda",
+      "wikiEn": "Tigress (Kung Fu Panda)",
+      "wikiPt": "Tigresa"
     },
     {
       "id": "who-expanded-180",
@@ -4865,7 +6192,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mestre Shifu",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Kung Fu Panda",
+      "wikiEn": "Master Shifu",
+      "wikiPt": "Mestre Shifu"
     },
     {
       "id": "who-expanded-181",
@@ -4876,7 +6206,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon",
       "wikiTitle": "How to Train Your Dragon",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Como Treinar o Seu Dragão",
+      "wikiEn": "Toothless (How to Train Your Dragon)",
+      "wikiPt": "Banguela"
     },
     {
       "id": "who-expanded-182",
@@ -4887,7 +6220,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Hiccup_Horrendous_Haddock_III",
       "wikiTitle": "Hiccup Horrendous Haddock III",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Como Treinar o Seu Dragão",
+      "wikiEn": "Hiccup Horrendous Haddock III",
+      "wikiPt": "Soluço (Como Treinar o Seu Dragão)"
     },
     {
       "id": "who-expanded-183",
@@ -4897,7 +6233,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Astrid",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Como Treinar o Seu Dragão",
+      "wikiEn": "Astrid",
+      "wikiPt": "Astrid"
     },
     {
       "id": "who-expanded-184",
@@ -4907,7 +6246,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gru",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Meu Malvado Favorito",
+      "wikiEn": "Gru",
+      "wikiPt": "Gru"
     },
     {
       "id": "who-expanded-185",
@@ -4918,7 +6260,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Minions_(Despicable_Me)",
       "wikiTitle": "Minions (Despicable Me)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Meu Malvado Favorito",
+      "wikiEn": "Minions (Despicable Me)",
+      "wikiPt": "Minions"
     },
     {
       "id": "who-expanded-186",
@@ -4928,7 +6273,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Minion Kevin",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Meu Malvado Favorito",
+      "wikiEn": "Minion Kevin",
+      "wikiPt": "Minion Kevin"
     },
     {
       "id": "who-expanded-187",
@@ -4938,7 +6286,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Minion Stuart",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Meu Malvado Favorito",
+      "wikiEn": "Minion Stuart",
+      "wikiPt": "Minion Stuart"
     },
     {
       "id": "who-expanded-188",
@@ -4948,17 +6299,23 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Megamente",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Megamente",
+      "wikiEn": "Megamind",
+      "wikiPt": "Megamente"
     },
     {
       "id": "who-expanded-189",
-      "name": "Alex de Madagascar",
+      "name": "Alex",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Alex de Madagascar",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Madagascar",
+      "wikiEn": "Alex de Madagascar",
+      "wikiPt": "Alex (Madagascar)"
     },
     {
       "id": "who-expanded-190",
@@ -4968,7 +6325,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Marty",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Madagascar",
+      "wikiEn": "Marty",
+      "wikiPt": "Marty (Madagascar)"
     },
     {
       "id": "who-expanded-191",
@@ -4978,7 +6338,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Glória",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Madagascar",
+      "wikiEn": "Glória",
+      "wikiPt": "Glória (Madagascar)"
     },
     {
       "id": "who-expanded-192",
@@ -4988,7 +6351,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Melman",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Madagascar",
+      "wikiEn": "Melman",
+      "wikiPt": "Melman"
     },
     {
       "id": "who-expanded-193",
@@ -4998,17 +6364,23 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rei Julien",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Madagascar",
+      "wikiEn": "Rei Julien",
+      "wikiPt": "Rei Julien"
     },
     {
       "id": "who-expanded-194",
-      "name": "Sid de Era do Gelo",
+      "name": "Sid",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sid de Era do Gelo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Era do Gelo",
+      "wikiEn": "Sid de Era do Gelo",
+      "wikiPt": "Sid (A Era do Gelo)"
     },
     {
       "id": "who-expanded-195",
@@ -5018,17 +6390,23 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Manny",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Era do Gelo",
+      "wikiEn": "Manny",
+      "wikiPt": "Manny"
     },
     {
       "id": "who-expanded-196",
-      "name": "Diego de Era do Gelo",
+      "name": "Diego",
       "category": "Cinema e TV",
       "level": 3,
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Diego de Era do Gelo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Era do Gelo",
+      "wikiEn": "Diego de Era do Gelo",
+      "wikiPt": "Diego (A Era do Gelo)"
     },
     {
       "id": "who-expanded-197",
@@ -5038,7 +6416,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Scrat",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Era do Gelo",
+      "wikiEn": "Scrat",
+      "wikiPt": "Scrat"
     },
     {
       "id": "who-expanded-198",
@@ -5048,7 +6429,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gato de Botas",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Shrek",
+      "wikiEn": "Puss in Boots (Shrek)",
+      "wikiPt": "Gato de Botas"
     },
     {
       "id": "who-expanded-199",
@@ -5059,7 +6443,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Jack_Sparrow",
       "wikiTitle": "Jack Sparrow",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Piratas do Caribe",
+      "wikiEn": "Jack Sparrow",
+      "wikiPt": "Jack Sparrow"
     },
     {
       "id": "who-expanded-200",
@@ -5069,7 +6456,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Indiana Jones",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Indiana Jones",
+      "wikiEn": "Indiana Jones",
+      "wikiPt": "Indiana Jones"
     },
     {
       "id": "who-expanded-201",
@@ -5079,7 +6469,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rocky Balboa",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Rocky",
+      "wikiEn": "Rocky Balboa",
+      "wikiPt": "Rocky Balboa"
     },
     {
       "id": "who-expanded-202",
@@ -5089,7 +6482,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rambo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Rambo",
+      "wikiEn": "Rambo",
+      "wikiPt": "Rambo"
     },
     {
       "id": "who-expanded-203",
@@ -5099,7 +6495,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Forrest Gump",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Forrest Gump",
+      "wikiEn": "Forrest Gump",
+      "wikiPt": "Forrest Gump"
     },
     {
       "id": "who-expanded-204",
@@ -5109,7 +6508,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Edward Mãos de Tesoura",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Edward Mãos de Tesoura",
+      "wikiEn": "Edward Scissorhands",
+      "wikiPt": "Edward Mãos de Tesoura"
     },
     {
       "id": "who-expanded-205",
@@ -5119,7 +6521,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Willy Wonka",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "A Fantástica Fábrica de Chocolate",
+      "wikiEn": "Willy Wonka",
+      "wikiPt": "Willy Wonka"
     },
     {
       "id": "who-expanded-206",
@@ -5129,7 +6534,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mary Poppins",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Mary Poppins",
+      "wikiEn": "Mary Poppins",
+      "wikiPt": "Mary Poppins"
     },
     {
       "id": "who-expanded-207",
@@ -5139,7 +6547,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "E.T.",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "E.T. — O Extraterrestre",
+      "wikiEn": "E.T.",
+      "wikiPt": "E.T."
     },
     {
       "id": "who-expanded-208",
@@ -5149,7 +6560,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Marty McFly",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "De Volta para o Futuro",
+      "wikiEn": "Marty McFly",
+      "wikiPt": "Marty McFly"
     },
     {
       "id": "who-expanded-209",
@@ -5159,7 +6573,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Doc Brown",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "De Volta para o Futuro",
+      "wikiEn": "Doc Brown",
+      "wikiPt": "Doc Brown"
     },
     {
       "id": "who-expanded-210",
@@ -5169,7 +6586,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Neo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Matrix",
+      "wikiEn": "Neo",
+      "wikiPt": "Neo"
     },
     {
       "id": "who-expanded-211",
@@ -5179,7 +6599,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Trinity",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Matrix",
+      "wikiEn": "Trinity",
+      "wikiPt": "Trinity"
     },
     {
       "id": "who-expanded-212",
@@ -5189,7 +6612,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "John Wick",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "John Wick",
+      "wikiEn": "John Wick",
+      "wikiPt": "John Wick"
     },
     {
       "id": "who-expanded-213",
@@ -5199,7 +6625,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "James Bond",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "007",
+      "wikiEn": "James Bond",
+      "wikiPt": "James Bond"
     },
     {
       "id": "who-expanded-214",
@@ -5209,7 +6638,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mr. Bean",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Mr. Bean",
+      "wikiEn": "Mr. Bean",
+      "wikiPt": "Mr. Bean"
     },
     {
       "id": "who-expanded-215",
@@ -5220,7 +6652,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/La_Chilindrina",
       "wikiTitle": "La Chilindrina",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Chaves",
+      "wikiEn": "La Chilindrina",
+      "wikiPt": "Chiquinha"
     },
     {
       "id": "who-expanded-216",
@@ -5231,7 +6666,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Quico",
       "wikiTitle": "Quico",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Chaves",
+      "wikiEn": "Quico",
+      "wikiPt": "Quico"
     },
     {
       "id": "who-expanded-217",
@@ -5242,7 +6680,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Don_Ram%C3%B3n",
       "wikiTitle": "Don Ramón",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Chaves",
+      "wikiEn": "Don Ramón",
+      "wikiPt": "Seu Madruga"
     },
     {
       "id": "who-expanded-218",
@@ -5252,7 +6693,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dona Florinda",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Chaves",
+      "wikiEn": "Doña Florinda",
+      "wikiPt": "Dona Florinda"
     },
     {
       "id": "who-expanded-219",
@@ -5262,7 +6706,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Professor Girafales",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Chaves",
+      "wikiEn": "Profesor Jirafales",
+      "wikiPt": "Professor Girafales"
     },
     {
       "id": "who-expanded-220",
@@ -5272,7 +6719,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dona Clotilde",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Chaves",
+      "wikiEn": "Doña Clotilde",
+      "wikiPt": "Dona Clotilde"
     },
     {
       "id": "who-expanded-221",
@@ -5282,7 +6732,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Cinema e TV",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Chapolin Colorado",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Chapolin Colorado",
+      "wikiEn": "Chapolin Colorado",
+      "wikiPt": "Chapolin Colorado"
     },
     {
       "id": "who-expanded-222",
@@ -5293,7 +6746,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Joker_(character)",
       "wikiTitle": "Joker (character)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Batman",
+      "wikiEn": "Joker (character)",
+      "wikiPt": "Coringa (DC Comics)"
     },
     {
       "id": "who-expanded-223",
@@ -5304,7 +6760,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Harley_Quinn",
       "wikiTitle": "Harley Quinn",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Batman",
+      "wikiEn": "Harley Quinn",
+      "wikiPt": "Arlequina"
     },
     {
       "id": "who-expanded-224",
@@ -5314,7 +6773,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Robin",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Batman",
+      "wikiEn": "Robin",
+      "wikiPt": "Robin (Batman)"
     },
     {
       "id": "who-expanded-225",
@@ -5324,7 +6786,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Aquaman",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "DC Comics",
+      "wikiEn": "Aquaman",
+      "wikiPt": "Aquaman"
     },
     {
       "id": "who-expanded-226",
@@ -5334,7 +6799,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Flash",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "DC Comics",
+      "wikiEn": "Flash",
+      "wikiPt": "Flash (DC Comics)"
     },
     {
       "id": "who-expanded-227",
@@ -5344,7 +6812,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Lanterna Verde",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "DC Comics",
+      "wikiEn": "Green Lantern",
+      "wikiPt": "Lanterna Verde"
     },
     {
       "id": "who-expanded-228",
@@ -5354,7 +6825,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Supergirl",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Superman",
+      "wikiEn": "Supergirl",
+      "wikiPt": "Supergirl"
     },
     {
       "id": "who-expanded-229",
@@ -5364,7 +6838,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Batgirl",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Batman",
+      "wikiEn": "Batgirl",
+      "wikiPt": "Batgirl"
     },
     {
       "id": "who-expanded-230",
@@ -5374,17 +6851,23 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mulher-Gato",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Batman",
+      "wikiEn": "Catwoman",
+      "wikiPt": "Mulher-Gato"
     },
     {
       "id": "who-expanded-231",
-      "name": "Pinguim do Batman",
+      "name": "Pinguim",
       "category": "Heróis, games e ficção",
       "level": 3,
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Pinguim do Batman",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Batman",
+      "wikiEn": "Penguin (character)",
+      "wikiPt": "Pinguim (DC Comics)"
     },
     {
       "id": "who-expanded-232",
@@ -5394,7 +6877,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Charada",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Batman",
+      "wikiEn": "Riddler",
+      "wikiPt": "Charada"
     },
     {
       "id": "who-expanded-233",
@@ -5404,7 +6890,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bane",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Batman",
+      "wikiEn": "Bane",
+      "wikiPt": "Bane"
     },
     {
       "id": "who-expanded-234",
@@ -5414,7 +6903,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Lex Luthor",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Superman",
+      "wikiEn": "Lex Luthor",
+      "wikiPt": "Lex Luthor"
     },
     {
       "id": "who-expanded-235",
@@ -5425,7 +6917,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Deadpool",
       "wikiTitle": "Deadpool",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Marvel",
+      "wikiEn": "Deadpool",
+      "wikiPt": "Deadpool"
     },
     {
       "id": "who-expanded-236",
@@ -5436,7 +6931,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Wolverine_(character)",
       "wikiTitle": "Wolverine (character)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "X-Men",
+      "wikiEn": "Wolverine (character)",
+      "wikiPt": "Wolverine"
     },
     {
       "id": "who-expanded-237",
@@ -5446,7 +6944,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tempestade",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "X-Men",
+      "wikiEn": "Storm (Marvel Comics)",
+      "wikiPt": "Tempestade"
     },
     {
       "id": "who-expanded-238",
@@ -5456,7 +6957,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ciclope",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "X-Men",
+      "wikiEn": "Cyclops (Marvel Comics)",
+      "wikiPt": "Ciclope"
     },
     {
       "id": "who-expanded-239",
@@ -5466,7 +6970,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Professor Xavier",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "X-Men",
+      "wikiEn": "Professor X",
+      "wikiPt": "Professor Xavier"
     },
     {
       "id": "who-expanded-240",
@@ -5476,7 +6983,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Magneto",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "X-Men",
+      "wikiEn": "Magneto",
+      "wikiPt": "Magneto"
     },
     {
       "id": "who-expanded-241",
@@ -5486,7 +6996,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jean Grey",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "X-Men",
+      "wikiEn": "Jean Grey",
+      "wikiPt": "Jean Grey"
     },
     {
       "id": "who-expanded-242",
@@ -5496,7 +7009,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Thor",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Thor",
+      "wikiPt": "Thor"
     },
     {
       "id": "who-expanded-243",
@@ -5506,7 +7022,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Loki",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Loki",
+      "wikiPt": "Loki"
     },
     {
       "id": "who-expanded-244",
@@ -5516,7 +7035,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Viúva Negra",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Black Widow (Marvel Comics)",
+      "wikiPt": "Viúva Negra"
     },
     {
       "id": "who-expanded-245",
@@ -5526,7 +7048,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gavião Arqueiro",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Hawkeye (Clint Barton)",
+      "wikiPt": "Gavião Arqueiro"
     },
     {
       "id": "who-expanded-246",
@@ -5536,7 +7061,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Doutor Estranho",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Doctor Strange",
+      "wikiPt": "Doutor Estranho"
     },
     {
       "id": "who-expanded-247",
@@ -5546,7 +7074,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Pantera Negra",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Black Panther (character)",
+      "wikiPt": "Pantera Negra"
     },
     {
       "id": "who-expanded-248",
@@ -5556,7 +7087,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Capitã Marvel",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Capitã Marvel",
+      "wikiPt": "Capitã Marvel"
     },
     {
       "id": "who-expanded-249",
@@ -5566,7 +7100,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Feiticeira Escarlate",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Scarlet Witch",
+      "wikiPt": "Feiticeira Escarlate"
     },
     {
       "id": "who-expanded-250",
@@ -5576,7 +7113,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Visão",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Visão",
+      "wikiPt": "Visão (Marvel)"
     },
     {
       "id": "who-expanded-251",
@@ -5586,7 +7126,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Homem-Formiga",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Ant-Man",
+      "wikiPt": "Homem-Formiga"
     },
     {
       "id": "who-expanded-252",
@@ -5596,7 +7139,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Vespa",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Wasp (character)",
+      "wikiPt": "Vespa (Marvel)"
     },
     {
       "id": "who-expanded-253",
@@ -5606,7 +7152,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Thanos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Thanos",
+      "wikiPt": "Thanos"
     },
     {
       "id": "who-expanded-254",
@@ -5617,17 +7166,23 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Groot",
       "wikiTitle": "Groot",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Guardiões da Galáxia",
+      "wikiEn": "Groot",
+      "wikiPt": "Groot"
     },
     {
       "id": "who-expanded-255",
-      "name": "Rocket Raccoon",
+      "name": "Rocket",
       "category": "Heróis, games e ficção",
       "level": 3,
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rocket Raccoon",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Guardiões da Galáxia",
+      "wikiEn": "Rocket Raccoon",
+      "wikiPt": "Rocket"
     },
     {
       "id": "who-expanded-256",
@@ -5637,7 +7192,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Senhor das Estrelas",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Guardiões da Galáxia",
+      "wikiEn": "Star-Lord",
+      "wikiPt": "Senhor das Estrelas"
     },
     {
       "id": "who-expanded-257",
@@ -5647,7 +7205,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gamora",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Guardiões da Galáxia",
+      "wikiEn": "Gamora",
+      "wikiPt": "Gamora"
     },
     {
       "id": "who-expanded-258",
@@ -5657,7 +7218,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Drax",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Guardiões da Galáxia",
+      "wikiEn": "Drax",
+      "wikiPt": "Drax"
     },
     {
       "id": "who-expanded-259",
@@ -5667,7 +7231,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Demolidor",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Daredevil (Marvel Comics character)",
+      "wikiPt": "Demolidor"
     },
     {
       "id": "who-expanded-260",
@@ -5677,7 +7244,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Justiceiro",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Punisher",
+      "wikiPt": "Justiceiro"
     },
     {
       "id": "who-expanded-261",
@@ -5687,7 +7257,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Cavaleiro da Lua",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Marvel",
+      "wikiEn": "Moon Knight",
+      "wikiPt": "Cavaleiro da Lua"
     },
     {
       "id": "who-expanded-262",
@@ -5697,7 +7270,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Venom",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Homem-Aranha",
+      "wikiEn": "Venom",
+      "wikiPt": "Venom"
     },
     {
       "id": "who-expanded-263",
@@ -5707,7 +7283,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Duende Verde",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Homem-Aranha",
+      "wikiEn": "Green Goblin",
+      "wikiPt": "Duende Verde"
     },
     {
       "id": "who-expanded-264",
@@ -5717,7 +7296,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Doutor Octopus",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Homem-Aranha",
+      "wikiEn": "Doutor Octopus",
+      "wikiPt": "Doutor Octopus"
     },
     {
       "id": "who-expanded-265",
@@ -5727,7 +7309,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Miles Morales",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Homem-Aranha",
+      "wikiEn": "Miles Morales",
+      "wikiPt": "Miles Morales"
     },
     {
       "id": "who-expanded-266",
@@ -5737,7 +7322,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Luna Lovegood",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Harry Potter",
+      "wikiEn": "Luna Lovegood",
+      "wikiPt": "Luna Lovegood"
     },
     {
       "id": "who-expanded-267",
@@ -5747,7 +7335,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ron Weasley",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Harry Potter",
+      "wikiEn": "Ron Weasley",
+      "wikiPt": "Ron Weasley"
     },
     {
       "id": "who-expanded-268",
@@ -5757,7 +7348,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dumbledore",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Harry Potter",
+      "wikiEn": "Dumbledore",
+      "wikiPt": "Dumbledore"
     },
     {
       "id": "who-expanded-269",
@@ -5767,7 +7361,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Hagrid",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Harry Potter",
+      "wikiEn": "Hagrid",
+      "wikiPt": "Hagrid"
     },
     {
       "id": "who-expanded-270",
@@ -5777,7 +7374,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Voldemort",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Harry Potter",
+      "wikiEn": "Voldemort",
+      "wikiPt": "Voldemort"
     },
     {
       "id": "who-expanded-271",
@@ -5787,7 +7387,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Snape",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Harry Potter",
+      "wikiEn": "Snape",
+      "wikiPt": "Snape"
     },
     {
       "id": "who-expanded-272",
@@ -5797,7 +7400,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Draco Malfoy",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Harry Potter",
+      "wikiEn": "Draco Malfoy",
+      "wikiPt": "Draco Malfoy"
     },
     {
       "id": "who-expanded-273",
@@ -5807,7 +7413,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dobby",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Harry Potter",
+      "wikiEn": "Dobby",
+      "wikiPt": "Dobby"
     },
     {
       "id": "who-expanded-274",
@@ -5817,7 +7426,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Frodo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Senhor dos Anéis",
+      "wikiEn": "Frodo",
+      "wikiPt": "Frodo"
     },
     {
       "id": "who-expanded-275",
@@ -5827,7 +7439,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Samwise Gamgee",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Senhor dos Anéis",
+      "wikiEn": "Samwise Gamgee",
+      "wikiPt": "Samwise Gamgee"
     },
     {
       "id": "who-expanded-276",
@@ -5837,7 +7452,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gandalf",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Senhor dos Anéis",
+      "wikiEn": "Gandalf",
+      "wikiPt": "Gandalf"
     },
     {
       "id": "who-expanded-277",
@@ -5847,7 +7465,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Aragorn",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Senhor dos Anéis",
+      "wikiEn": "Aragorn",
+      "wikiPt": "Aragorn"
     },
     {
       "id": "who-expanded-278",
@@ -5857,7 +7478,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Legolas",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Senhor dos Anéis",
+      "wikiEn": "Legolas",
+      "wikiPt": "Legolas"
     },
     {
       "id": "who-expanded-279",
@@ -5867,7 +7491,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gimli",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Senhor dos Anéis",
+      "wikiEn": "Gimli",
+      "wikiPt": "Gimli"
     },
     {
       "id": "who-expanded-280",
@@ -5877,7 +7504,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gollum",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Senhor dos Anéis",
+      "wikiEn": "Gollum",
+      "wikiPt": "Gollum"
     },
     {
       "id": "who-expanded-281",
@@ -5887,7 +7517,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bilbo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Senhor dos Anéis",
+      "wikiEn": "Bilbo",
+      "wikiPt": "Bilbo"
     },
     {
       "id": "who-expanded-282",
@@ -5897,7 +7530,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sauron",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "O Senhor dos Anéis",
+      "wikiEn": "Sauron",
+      "wikiPt": "Sauron"
     },
     {
       "id": "who-expanded-283",
@@ -5907,7 +7543,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Luke Skywalker",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "Luke Skywalker",
+      "wikiPt": "Luke Skywalker"
     },
     {
       "id": "who-expanded-284",
@@ -5917,7 +7556,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Leia Organa",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "Leia Organa",
+      "wikiPt": "Leia Organa"
     },
     {
       "id": "who-expanded-285",
@@ -5927,7 +7569,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Han Solo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "Han Solo",
+      "wikiPt": "Han Solo"
     },
     {
       "id": "who-expanded-286",
@@ -5937,7 +7582,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Chewbacca",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "Chewbacca",
+      "wikiPt": "Chewbacca"
     },
     {
       "id": "who-expanded-287",
@@ -5947,7 +7595,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "R2-D2",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "R2-D2",
+      "wikiPt": "R2-D2"
     },
     {
       "id": "who-expanded-288",
@@ -5957,7 +7608,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "C-3PO",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "C-3PO",
+      "wikiPt": "C-3PO"
     },
     {
       "id": "who-expanded-289",
@@ -5967,7 +7621,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Obi-Wan Kenobi",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "Obi-Wan Kenobi",
+      "wikiPt": "Obi-Wan Kenobi"
     },
     {
       "id": "who-expanded-290",
@@ -5977,7 +7634,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mandaloriano",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "Mandaloriano",
+      "wikiPt": "Mandaloriano"
     },
     {
       "id": "who-expanded-291",
@@ -5987,7 +7647,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Grogu",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "Grogu",
+      "wikiPt": "Grogu"
     },
     {
       "id": "who-expanded-292",
@@ -5997,7 +7660,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rey",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "Rey",
+      "wikiPt": "Rey"
     },
     {
       "id": "who-expanded-293",
@@ -6007,7 +7673,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kylo Ren",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "Kylo Ren",
+      "wikiPt": "Kylo Ren"
     },
     {
       "id": "who-expanded-294",
@@ -6017,7 +7686,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Palpatine",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Star Wars",
+      "wikiEn": "Palpatine",
+      "wikiPt": "Palpatine"
     },
     {
       "id": "who-expanded-295",
@@ -6027,7 +7699,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kratos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "God of War",
+      "wikiEn": "Kratos",
+      "wikiPt": "Kratos"
     },
     {
       "id": "who-expanded-296",
@@ -6037,7 +7712,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Atreus",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "God of War",
+      "wikiEn": "Atreus",
+      "wikiPt": "Atreus"
     },
     {
       "id": "who-expanded-297",
@@ -6047,7 +7725,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Lara Croft",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Tomb Raider",
+      "wikiEn": "Lara Croft",
+      "wikiPt": "Lara Croft"
     },
     {
       "id": "who-expanded-298",
@@ -6057,7 +7738,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Link",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "The Legend of Zelda",
+      "wikiEn": "Link",
+      "wikiPt": "Link (The Legend of Zelda)"
     },
     {
       "id": "who-expanded-299",
@@ -6067,7 +7751,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Princesa Zelda",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "The Legend of Zelda",
+      "wikiEn": "Princesa Zelda",
+      "wikiPt": "Princesa Zelda"
     },
     {
       "id": "who-expanded-300",
@@ -6077,7 +7764,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ganondorf",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "The Legend of Zelda",
+      "wikiEn": "Ganondorf",
+      "wikiPt": "Ganondorf"
     },
     {
       "id": "who-expanded-301",
@@ -6088,7 +7778,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Bowser",
       "wikiTitle": "Bowser",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Super Mario",
+      "wikiEn": "Bowser",
+      "wikiPt": "Bowser"
     },
     {
       "id": "who-expanded-302",
@@ -6099,7 +7792,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Princess_Peach",
       "wikiTitle": "Princess Peach",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Super Mario",
+      "wikiEn": "Princess Peach",
+      "wikiPt": "Princesa Peach"
     },
     {
       "id": "who-expanded-303",
@@ -6110,7 +7806,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Yoshi",
       "wikiTitle": "Yoshi",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Super Mario",
+      "wikiEn": "Yoshi",
+      "wikiPt": "Yoshi"
     },
     {
       "id": "who-expanded-304",
@@ -6120,7 +7819,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Toad",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Super Mario",
+      "wikiEn": "Toad",
+      "wikiPt": "Toad"
     },
     {
       "id": "who-expanded-305",
@@ -6131,7 +7833,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Donkey_Kong_(character)",
       "wikiTitle": "Donkey Kong (character)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Super Mario",
+      "wikiEn": "Donkey Kong (character)",
+      "wikiPt": "Donkey Kong"
     },
     {
       "id": "who-expanded-306",
@@ -6141,7 +7846,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Diddy Kong",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Super Mario",
+      "wikiEn": "Diddy Kong",
+      "wikiPt": "Diddy Kong"
     },
     {
       "id": "who-expanded-307",
@@ -6151,7 +7859,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Wario",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Super Mario",
+      "wikiEn": "Wario",
+      "wikiPt": "Wario"
     },
     {
       "id": "who-expanded-308",
@@ -6161,7 +7872,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Waluigi",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Super Mario",
+      "wikiEn": "Waluigi",
+      "wikiPt": "Waluigi"
     },
     {
       "id": "who-expanded-309",
@@ -6172,7 +7886,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Kirby_(character)",
       "wikiTitle": "Kirby (character)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Kirby",
+      "wikiEn": "Kirby (character)",
+      "wikiPt": "Kirby (personagem)"
     },
     {
       "id": "who-expanded-310",
@@ -6182,7 +7899,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Samus Aran",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Metroid",
+      "wikiEn": "Samus Aran",
+      "wikiPt": "Samus Aran"
     },
     {
       "id": "who-expanded-311",
@@ -6193,7 +7913,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Pac-Man_(character)",
       "wikiTitle": "Pac-Man (character)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Pac-Man",
+      "wikiEn": "Pac-Man (character)",
+      "wikiPt": "Pac-Man"
     },
     {
       "id": "who-expanded-312",
@@ -6203,7 +7926,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mega Man",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Mega Man",
+      "wikiEn": "Mega Man",
+      "wikiPt": "Mega Man"
     },
     {
       "id": "who-expanded-313",
@@ -6213,7 +7939,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Crash Bandicoot",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Crash Bandicoot",
+      "wikiEn": "Crash Bandicoot",
+      "wikiPt": "Crash Bandicoot"
     },
     {
       "id": "who-expanded-314",
@@ -6223,7 +7952,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Spyro",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Spyro",
+      "wikiEn": "Spyro",
+      "wikiPt": "Spyro"
     },
     {
       "id": "who-expanded-315",
@@ -6233,7 +7965,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ryu",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Street Fighter",
+      "wikiEn": "Ryu",
+      "wikiPt": "Ryu (Street Fighter)"
     },
     {
       "id": "who-expanded-316",
@@ -6243,7 +7978,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ken Masters",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Street Fighter",
+      "wikiEn": "Ken Masters",
+      "wikiPt": "Ken Masters"
     },
     {
       "id": "who-expanded-317",
@@ -6253,7 +7991,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Chun-Li",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Street Fighter",
+      "wikiEn": "Chun-Li",
+      "wikiPt": "Chun-Li"
     },
     {
       "id": "who-expanded-318",
@@ -6263,7 +8004,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Blanka",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Street Fighter",
+      "wikiEn": "Blanka",
+      "wikiPt": "Blanka"
     },
     {
       "id": "who-expanded-319",
@@ -6273,7 +8017,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Scorpion",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Mortal Kombat",
+      "wikiEn": "Scorpion",
+      "wikiPt": "Scorpion"
     },
     {
       "id": "who-expanded-320",
@@ -6283,7 +8030,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sub-Zero",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Mortal Kombat",
+      "wikiEn": "Sub-Zero",
+      "wikiPt": "Sub-Zero"
     },
     {
       "id": "who-expanded-321",
@@ -6293,7 +8043,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Liu Kang",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Mortal Kombat",
+      "wikiEn": "Liu Kang",
+      "wikiPt": "Liu Kang"
     },
     {
       "id": "who-expanded-322",
@@ -6303,7 +8056,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Raiden",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Mortal Kombat",
+      "wikiEn": "Raiden",
+      "wikiPt": "Raiden"
     },
     {
       "id": "who-expanded-323",
@@ -6313,28 +8069,37 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kitana",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Mortal Kombat",
+      "wikiEn": "Kitana",
+      "wikiPt": "Kitana"
     },
     {
       "id": "who-expanded-324",
-      "name": "Steve do Minecraft",
+      "name": "Steve",
       "category": "Heróis, games e ficção",
       "level": 3,
       "hint": "Heróis, games e ficção",
       "source": "https://en.wikipedia.org/wiki/Steve_(Minecraft)",
       "wikiTitle": "Steve (Minecraft)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Minecraft",
+      "wikiEn": "Steve (Minecraft)",
+      "wikiPt": "Steve (Minecraft)"
     },
     {
       "id": "who-expanded-325",
-      "name": "Alex do Minecraft",
+      "name": "Alex",
       "category": "Heróis, games e ficção",
       "level": 3,
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Alex do Minecraft",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Minecraft",
+      "wikiEn": "Alex do Minecraft",
+      "wikiPt": "Alex (Minecraft)"
     },
     {
       "id": "who-expanded-326",
@@ -6345,7 +8110,10 @@ window.PLAYBOX_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/Creeper_(Minecraft)",
       "wikiTitle": "Creeper (Minecraft)",
       "wikiLang": "en",
-      "image": null
+      "image": null,
+      "series": "Minecraft",
+      "wikiEn": "Creeper (Minecraft)",
+      "wikiPt": "Creeper (Minecraft)"
     },
     {
       "id": "who-expanded-327",
@@ -6355,17 +8123,23 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Enderman",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Minecraft",
+      "wikiEn": "Enderman",
+      "wikiPt": "Enderman"
     },
     {
       "id": "who-expanded-328",
-      "name": "CJ de GTA",
+      "name": "CJ",
       "category": "Heróis, games e ficção",
       "level": 2,
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "CJ de GTA",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "GTA: San Andreas",
+      "wikiEn": "CJ de GTA",
+      "wikiPt": "CJ"
     },
     {
       "id": "who-expanded-329",
@@ -6375,7 +8149,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Michael De Santa",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "GTA V",
+      "wikiEn": "Michael De Santa",
+      "wikiPt": "Michael De Santa"
     },
     {
       "id": "who-expanded-330",
@@ -6385,7 +8162,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Franklin Clinton",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "GTA V",
+      "wikiEn": "Franklin Clinton",
+      "wikiPt": "Franklin Clinton"
     },
     {
       "id": "who-expanded-331",
@@ -6395,7 +8175,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Trevor Philips",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "GTA V",
+      "wikiEn": "Trevor Philips",
+      "wikiPt": "Trevor Philips"
     },
     {
       "id": "who-expanded-332",
@@ -6405,7 +8188,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Arthur Morgan",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Red Dead Redemption",
+      "wikiEn": "Arthur Morgan",
+      "wikiPt": "Arthur Morgan"
     },
     {
       "id": "who-expanded-333",
@@ -6415,7 +8201,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "John Marston",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Red Dead Redemption",
+      "wikiEn": "John Marston",
+      "wikiPt": "John Marston"
     },
     {
       "id": "who-expanded-334",
@@ -6425,7 +8214,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Geralt de Rívia",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "The Witcher",
+      "wikiEn": "Geralt de Rívia",
+      "wikiPt": "Geralt de Rívia"
     },
     {
       "id": "who-expanded-335",
@@ -6435,7 +8227,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ezio Auditore",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Assassin's Creed",
+      "wikiEn": "Ezio Auditore",
+      "wikiPt": "Ezio Auditore"
     },
     {
       "id": "who-expanded-336",
@@ -6445,7 +8240,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Nathan Drake",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Uncharted",
+      "wikiEn": "Nathan Drake",
+      "wikiPt": "Nathan Drake"
     },
     {
       "id": "who-expanded-337",
@@ -6455,7 +8253,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sackboy",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "LittleBigPlanet",
+      "wikiEn": "Sackboy",
+      "wikiPt": "Sackboy"
     },
     {
       "id": "who-expanded-338",
@@ -6465,7 +8266,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tails",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Sonic",
+      "wikiEn": "Tails",
+      "wikiPt": "Tails"
     },
     {
       "id": "who-expanded-339",
@@ -6475,7 +8279,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Knuckles",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Sonic",
+      "wikiEn": "Knuckles",
+      "wikiPt": "Knuckles"
     },
     {
       "id": "who-expanded-340",
@@ -6485,7 +8292,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Shadow",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Sonic",
+      "wikiEn": "Shadow",
+      "wikiPt": "Shadow"
     },
     {
       "id": "who-expanded-341",
@@ -6495,7 +8305,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dr. Eggman",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Sonic",
+      "wikiEn": "Dr. Eggman",
+      "wikiPt": "Dr. Eggman"
     },
     {
       "id": "who-expanded-342",
@@ -6505,7 +8318,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Piccolo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Dragon Ball",
+      "wikiEn": "Piccolo",
+      "wikiPt": "Piccolo"
     },
     {
       "id": "who-expanded-343",
@@ -6515,7 +8331,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gohan",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Dragon Ball",
+      "wikiEn": "Gohan",
+      "wikiPt": "Gohan"
     },
     {
       "id": "who-expanded-344",
@@ -6525,7 +8344,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Trunks",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Dragon Ball",
+      "wikiEn": "Trunks",
+      "wikiPt": "Trunks"
     },
     {
       "id": "who-expanded-345",
@@ -6535,7 +8357,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kuririn",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Dragon Ball",
+      "wikiEn": "Kuririn",
+      "wikiPt": "Kuririn"
     },
     {
       "id": "who-expanded-346",
@@ -6545,7 +8370,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Freeza",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Dragon Ball",
+      "wikiEn": "Freeza",
+      "wikiPt": "Freeza"
     },
     {
       "id": "who-expanded-347",
@@ -6555,7 +8383,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Cell",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Dragon Ball",
+      "wikiEn": "Cell",
+      "wikiPt": "Cell"
     },
     {
       "id": "who-expanded-348",
@@ -6565,7 +8396,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Majin Boo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Dragon Ball",
+      "wikiEn": "Majin Boo",
+      "wikiPt": "Majin Boo"
     },
     {
       "id": "who-expanded-349",
@@ -6575,7 +8409,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bulma",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Dragon Ball",
+      "wikiEn": "Bulma",
+      "wikiPt": "Bulma"
     },
     {
       "id": "who-expanded-350",
@@ -6585,7 +8422,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sasuke",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Naruto",
+      "wikiEn": "Sasuke",
+      "wikiPt": "Sasuke"
     },
     {
       "id": "who-expanded-351",
@@ -6595,7 +8435,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sakura Haruno",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Naruto",
+      "wikiEn": "Sakura Haruno",
+      "wikiPt": "Sakura Haruno (Naruto)"
     },
     {
       "id": "who-expanded-352",
@@ -6605,7 +8448,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kakashi",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Naruto",
+      "wikiEn": "Kakashi",
+      "wikiPt": "Kakashi"
     },
     {
       "id": "who-expanded-353",
@@ -6615,7 +8461,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Itachi",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Naruto",
+      "wikiEn": "Itachi",
+      "wikiPt": "Itachi"
     },
     {
       "id": "who-expanded-354",
@@ -6625,7 +8474,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gaara",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Naruto",
+      "wikiEn": "Gaara",
+      "wikiPt": "Gaara"
     },
     {
       "id": "who-expanded-355",
@@ -6635,7 +8487,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Hinata",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Naruto",
+      "wikiEn": "Hinata",
+      "wikiPt": "Hinata"
     },
     {
       "id": "who-expanded-356",
@@ -6645,7 +8500,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Zoro",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "One Piece",
+      "wikiEn": "Zoro",
+      "wikiPt": "Zoro"
     },
     {
       "id": "who-expanded-357",
@@ -6655,7 +8513,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Nami",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "One Piece",
+      "wikiEn": "Nami",
+      "wikiPt": "Nami"
     },
     {
       "id": "who-expanded-358",
@@ -6665,7 +8526,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sanji",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "One Piece",
+      "wikiEn": "Sanji",
+      "wikiPt": "Sanji"
     },
     {
       "id": "who-expanded-359",
@@ -6675,7 +8539,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Chopper",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "One Piece",
+      "wikiEn": "Chopper",
+      "wikiPt": "Chopper (One Piece)"
     },
     {
       "id": "who-expanded-360",
@@ -6685,7 +8552,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Usopp",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "One Piece",
+      "wikiEn": "Usopp",
+      "wikiPt": "Usopp"
     },
     {
       "id": "who-expanded-361",
@@ -6695,7 +8565,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Saitama",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "One Punch Man",
+      "wikiEn": "Saitama",
+      "wikiPt": "Saitama"
     },
     {
       "id": "who-expanded-362",
@@ -6705,7 +8578,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Genos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "One Punch Man",
+      "wikiEn": "Genos",
+      "wikiPt": "Genos"
     },
     {
       "id": "who-expanded-363",
@@ -6715,7 +8591,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tanjiro",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Demon Slayer",
+      "wikiEn": "Tanjiro",
+      "wikiPt": "Tanjiro"
     },
     {
       "id": "who-expanded-364",
@@ -6725,7 +8604,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Nezuko",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Demon Slayer",
+      "wikiEn": "Nezuko",
+      "wikiPt": "Nezuko"
     },
     {
       "id": "who-expanded-365",
@@ -6735,7 +8617,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Inosuke",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Demon Slayer",
+      "wikiEn": "Inosuke",
+      "wikiPt": "Inosuke"
     },
     {
       "id": "who-expanded-366",
@@ -6745,7 +8630,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Zenitsu",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Demon Slayer",
+      "wikiEn": "Zenitsu",
+      "wikiPt": "Zenitsu"
     },
     {
       "id": "who-expanded-367",
@@ -6755,7 +8643,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sailor Moon",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Sailor Moon",
+      "wikiEn": "Sailor Moon",
+      "wikiPt": "Sailor Moon"
     },
     {
       "id": "who-expanded-368",
@@ -6765,7 +8656,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Seiya de Pégaso",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Cavaleiros do Zodíaco",
+      "wikiEn": "Seiya de Pégaso",
+      "wikiPt": "Seiya de Pégaso"
     },
     {
       "id": "who-expanded-369",
@@ -6775,7 +8669,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Shiryu de Dragão",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Cavaleiros do Zodíaco",
+      "wikiEn": "Shiryu de Dragão",
+      "wikiPt": "Shiryu de Dragão"
     },
     {
       "id": "who-expanded-370",
@@ -6785,7 +8682,10 @@ window.PLAYBOX_CATALOG = {
       "hint": "Heróis, games e ficção",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ikki de Fênix",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "series": "Os Cavaleiros do Zodíaco",
+      "wikiEn": "Ikki de Fênix",
+      "wikiPt": "Ikki de Fênix"
     },
     {
       "id": "who-expanded-371",
@@ -6795,7 +8695,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Silvio Santos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Silvio Santos",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-372",
@@ -6805,7 +8707,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Xuxa",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Xuxa",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-373",
@@ -6815,7 +8719,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Faustão",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Faustão",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-374",
@@ -6825,7 +8731,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gugu Liberato",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Gugu Liberato",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-375",
@@ -6835,7 +8743,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ratinho",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ratinho",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-376",
@@ -6845,7 +8755,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Luciano Huck",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Luciano Huck",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-377",
@@ -6855,7 +8767,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Angélica",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Angélica",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-378",
@@ -6865,7 +8779,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Eliana",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Eliana",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-379",
@@ -6875,7 +8791,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ana Maria Braga",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ana Maria Braga",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-380",
@@ -6885,7 +8803,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Fátima Bernardes",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Fátima Bernardes",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-381",
@@ -6895,7 +8815,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "William Bonner",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "William Bonner",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-382",
@@ -6905,7 +8827,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Galvão Bueno",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Galvão Bueno",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-383",
@@ -6915,7 +8839,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jô Soares",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Jô Soares",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-384",
@@ -6925,7 +8851,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Renato Aragão",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Renato Aragão",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-385",
@@ -6935,7 +8863,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dedé Santana",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Dedé Santana",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-386",
@@ -6945,7 +8875,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mussum",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Mussum",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-387",
@@ -6955,7 +8887,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Zacarias",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Zacarias",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-388",
@@ -6965,7 +8899,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Chico Anysio",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Chico Anysio",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-389",
@@ -6975,7 +8911,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tom Cavalcante",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Tom Cavalcante",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-390",
@@ -6985,7 +8923,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Whindersson Nunes",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Whindersson Nunes",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-391",
@@ -6995,7 +8935,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tatá Werneck",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Tatá Werneck",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-392",
@@ -7005,7 +8947,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Paulo Gustavo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Paulo Gustavo",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-393",
@@ -7015,7 +8959,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Fábio Porchat",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Fábio Porchat",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-394",
@@ -7025,7 +8971,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rafinha Bastos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Rafinha Bastos",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-395",
@@ -7035,7 +8983,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Fernanda Montenegro",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Fernanda Montenegro",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-396",
@@ -7045,7 +8995,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Fernanda Torres",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Fernanda Torres",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-397",
@@ -7055,7 +9007,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Selton Mello",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Selton Mello",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-398",
@@ -7065,7 +9019,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Wagner Moura",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Wagner Moura",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-399",
@@ -7075,7 +9031,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Lázaro Ramos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Lázaro Ramos",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-400",
@@ -7085,7 +9043,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Taís Araújo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Taís Araújo",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-401",
@@ -7095,7 +9055,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tony Ramos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Tony Ramos",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-402",
@@ -7105,7 +9067,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Glória Pires",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Glória Pires",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-403",
@@ -7115,7 +9079,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Juliana Paes",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Juliana Paes",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-404",
@@ -7125,7 +9091,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bruna Marquezine",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Bruna Marquezine",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-405",
@@ -7135,7 +9103,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sandy",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Sandy",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-406",
@@ -7145,7 +9115,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Junior Lima",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Junior Lima",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-407",
@@ -7155,7 +9127,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ivete Sangalo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ivete Sangalo",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-408",
@@ -7165,7 +9139,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Claudia Leitte",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Claudia Leitte",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-409",
@@ -7175,7 +9151,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Luan Santana",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Luan Santana",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-410",
@@ -7185,7 +9163,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gusttavo Lima",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Gusttavo Lima",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-411",
@@ -7195,7 +9175,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Marília Mendonça",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Marília Mendonça",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-412",
@@ -7205,7 +9187,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Roberto Carlos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Roberto Carlos",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-413",
@@ -7215,7 +9199,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Erasmo Carlos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Erasmo Carlos",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-414",
@@ -7225,7 +9211,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Caetano Veloso",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Caetano Veloso",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-415",
@@ -7235,7 +9223,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gilberto Gil",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Gilberto Gil",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-416",
@@ -7245,7 +9235,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Chico Buarque",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Chico Buarque",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-417",
@@ -7255,7 +9247,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Elis Regina",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Elis Regina",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-418",
@@ -7265,7 +9259,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rita Lee",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Rita Lee",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-419",
@@ -7275,7 +9271,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Raul Seixas",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Raul Seixas",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-420",
@@ -7285,7 +9283,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Cazuza",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Cazuza",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-421",
@@ -7295,7 +9295,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Renato Russo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Renato Russo",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-422",
@@ -7305,7 +9307,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Chorão",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Chorão",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-423",
@@ -7315,7 +9319,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Pitty",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Pitty",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-424",
@@ -7325,7 +9331,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Alceu Valença",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Alceu Valença",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-425",
@@ -7335,7 +9343,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Luiz Gonzaga",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Luiz Gonzaga",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-426",
@@ -7345,7 +9355,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Djavan",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Djavan",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-427",
@@ -7355,7 +9367,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Seu Jorge",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Seu Jorge",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-428",
@@ -7365,7 +9379,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tim Maia",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Tim Maia",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-429",
@@ -7375,7 +9391,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jorge Ben Jor",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Jorge Ben Jor",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-430",
@@ -7385,7 +9403,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ludmilla",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ludmilla",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-431",
@@ -7395,7 +9415,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Pabllo Vittar",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Pabllo Vittar",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-432",
@@ -7405,7 +9427,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Iza",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Iza",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-433",
@@ -7415,7 +9439,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Alok",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Alok",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-434",
@@ -7425,7 +9451,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "MC Cabelinho",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "MC Cabelinho",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-435",
@@ -7435,7 +9463,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ronaldinho Gaúcho",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ronaldinho Gaúcho",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-436",
@@ -7445,7 +9475,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Romário",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Romário",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-437",
@@ -7455,7 +9487,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rivaldo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Rivaldo",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-438",
@@ -7465,7 +9499,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kaká",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Kaká",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-439",
@@ -7475,7 +9511,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Roberto Carlos jogador",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Roberto Carlos jogador",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-440",
@@ -7485,7 +9523,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Cafu",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Cafu",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-441",
@@ -7495,7 +9535,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Zico",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Zico",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-442",
@@ -7505,7 +9547,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Garrincha",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Garrincha",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-443",
@@ -7515,7 +9559,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sócrates jogador",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Sócrates jogador",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-444",
@@ -7525,7 +9571,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Endrick",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Endrick",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-445",
@@ -7535,7 +9583,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Vinícius Júnior",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Vinícius Júnior",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-446",
@@ -7545,7 +9595,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rodrygo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Rodrygo",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-447",
@@ -7555,7 +9607,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gabigol",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Gabigol",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-448",
@@ -7565,7 +9619,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Neto",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Neto",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-449",
@@ -7575,7 +9631,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rogério Ceni",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Rogério Ceni",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-450",
@@ -7585,7 +9643,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dunga",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Dunga",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-451",
@@ -7595,7 +9655,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Felipão",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Felipão",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-452",
@@ -7605,7 +9667,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tite",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Tite",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-453",
@@ -7615,7 +9679,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rebeca Andrade",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Rebeca Andrade",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-454",
@@ -7625,7 +9691,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Daiane dos Santos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Daiane dos Santos",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-455",
@@ -7635,7 +9703,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Gustavo Kuerten",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Gustavo Kuerten",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-456",
@@ -7645,7 +9715,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Anderson Silva",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Anderson Silva",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-457",
@@ -7655,7 +9727,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "José Aldo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "José Aldo",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-458",
@@ -7665,7 +9739,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Amanda Nunes",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Amanda Nunes",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-459",
@@ -7675,7 +9751,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "César Cielo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "César Cielo",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-460",
@@ -7685,7 +9763,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Oscar Schmidt",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Oscar Schmidt",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-461",
@@ -7695,7 +9775,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Hortência",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Hortência",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-462",
@@ -7705,7 +9787,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Giba",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Giba",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-463",
@@ -7715,7 +9799,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Serginho do vôlei",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Serginho do vôlei",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-464",
@@ -7725,7 +9811,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mauricio de Sousa",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Mauricio de Sousa",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-465",
@@ -7735,7 +9823,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Monteiro Lobato",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Monteiro Lobato",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-466",
@@ -7745,7 +9835,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Machado de Assis",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Machado de Assis",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-467",
@@ -7755,7 +9847,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Clarice Lispector",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Clarice Lispector",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-468",
@@ -7765,7 +9859,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jorge Amado",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Jorge Amado",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-469",
@@ -7775,7 +9871,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Paulo Coelho",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Paulo Coelho",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-470",
@@ -7785,7 +9883,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Santos Dumont",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Santos Dumont",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-471",
@@ -7795,7 +9895,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades brasileiras",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tarsila do Amaral",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Tarsila do Amaral",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-472",
@@ -7805,7 +9907,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Madonna",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Madonna",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-473",
@@ -7815,7 +9919,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Shakira",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Shakira",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-474",
@@ -7825,7 +9931,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Britney Spears",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Britney Spears",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-475",
@@ -7835,7 +9943,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Adele",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Adele",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-476",
@@ -7845,7 +9955,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ed Sheeran",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ed Sheeran",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-477",
@@ -7855,7 +9967,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bruno Mars",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Bruno Mars",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-478",
@@ -7865,7 +9979,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Justin Bieber",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Justin Bieber",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-479",
@@ -7875,7 +9991,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Selena Gomez",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Selena Gomez",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-480",
@@ -7885,7 +10003,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ariana Grande",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ariana Grande",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-481",
@@ -7895,7 +10015,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Billie Eilish",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Billie Eilish",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-482",
@@ -7905,7 +10027,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dua Lipa",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Dua Lipa",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-483",
@@ -7915,7 +10039,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Miley Cyrus",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Miley Cyrus",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-484",
@@ -7925,7 +10051,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Katy Perry",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Katy Perry",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-485",
@@ -7935,7 +10063,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Eminem",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Eminem",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-486",
@@ -7945,7 +10075,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Snoop Dogg",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Snoop Dogg",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-487",
@@ -7955,7 +10087,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Drake",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Drake",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-488",
@@ -7965,7 +10099,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "The Weeknd",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "The Weeknd",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-489",
@@ -7975,7 +10111,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bono",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Bono",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-490",
@@ -7985,7 +10123,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Elton John",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Elton John",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-491",
@@ -7995,7 +10135,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "John Lennon",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "John Lennon",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-492",
@@ -8005,7 +10147,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Paul McCartney",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Paul McCartney",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-493",
@@ -8015,7 +10159,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "David Bowie",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "David Bowie",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-494",
@@ -8025,7 +10171,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mick Jagger",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Mick Jagger",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-495",
@@ -8035,7 +10183,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bob Marley",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Bob Marley",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-496",
@@ -8045,7 +10195,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kurt Cobain",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Kurt Cobain",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-497",
@@ -8055,7 +10207,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ozzy Osbourne",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ozzy Osbourne",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-498",
@@ -8065,7 +10219,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Axl Rose",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Axl Rose",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-499",
@@ -8075,7 +10231,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Slash",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Slash",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-500",
@@ -8085,7 +10243,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "James Hetfield",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "James Hetfield",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-501",
@@ -8095,7 +10255,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bruce Dickinson",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Bruce Dickinson",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-502",
@@ -8105,7 +10267,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Angus Young",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Angus Young",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-503",
@@ -8115,7 +10279,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Leonardo DiCaprio",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Leonardo DiCaprio",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-504",
@@ -8125,7 +10291,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Brad Pitt",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Brad Pitt",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-505",
@@ -8135,7 +10303,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Angelina Jolie",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Angelina Jolie",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-506",
@@ -8145,7 +10315,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Johnny Depp",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Johnny Depp",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-507",
@@ -8155,7 +10327,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tom Cruise",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Tom Cruise",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-508",
@@ -8165,7 +10339,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Keanu Reeves",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Keanu Reeves",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-509",
@@ -8175,7 +10351,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Will Smith",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Will Smith",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-510",
@@ -8185,7 +10363,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jim Carrey",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Jim Carrey",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-511",
@@ -8195,7 +10375,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Adam Sandler",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Adam Sandler",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-512",
@@ -8205,7 +10387,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Dwayne Johnson",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Dwayne Johnson",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-513",
@@ -8215,7 +10399,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Arnold Schwarzenegger",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Arnold Schwarzenegger",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-514",
@@ -8225,7 +10411,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sylvester Stallone",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Sylvester Stallone",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-515",
@@ -8235,7 +10423,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jackie Chan",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Jackie Chan",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-516",
@@ -8245,7 +10435,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bruce Lee",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Bruce Lee",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-517",
@@ -8255,7 +10447,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Vin Diesel",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Vin Diesel",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-518",
@@ -8265,7 +10459,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jason Statham",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Jason Statham",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-519",
@@ -8275,7 +10471,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Morgan Freeman",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Morgan Freeman",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-520",
@@ -8285,7 +10483,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Samuel L. Jackson",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Samuel L. Jackson",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-521",
@@ -8295,7 +10495,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Robert Downey Jr.",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Robert Downey Jr.",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-522",
@@ -8305,7 +10507,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Chris Evans",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Chris Evans",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-523",
@@ -8315,7 +10519,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Chris Hemsworth",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Chris Hemsworth",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-524",
@@ -8325,7 +10531,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Scarlett Johansson",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Scarlett Johansson",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-525",
@@ -8335,7 +10543,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Emma Watson",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Emma Watson",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-526",
@@ -8345,7 +10555,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Daniel Radcliffe",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Daniel Radcliffe",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-527",
@@ -8355,7 +10567,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jennifer Aniston",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Jennifer Aniston",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-528",
@@ -8365,7 +10579,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Sandra Bullock",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Sandra Bullock",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-529",
@@ -8375,7 +10591,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Julia Roberts",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Julia Roberts",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-530",
@@ -8385,7 +10603,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Meryl Streep",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Meryl Streep",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-531",
@@ -8395,7 +10615,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Zendaya",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Zendaya",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-532",
@@ -8405,7 +10627,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tom Holland",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Tom Holland",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-533",
@@ -8415,7 +10639,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Hugh Jackman",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Hugh Jackman",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-534",
@@ -8425,7 +10651,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ryan Reynolds",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ryan Reynolds",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-535",
@@ -8435,7 +10663,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Margot Robbie",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Margot Robbie",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-536",
@@ -8445,7 +10675,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Heath Ledger",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Heath Ledger",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-537",
@@ -8455,7 +10687,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Joaquin Phoenix",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Joaquin Phoenix",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-538",
@@ -8465,7 +10699,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Robert Pattinson",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Robert Pattinson",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-539",
@@ -8475,7 +10711,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kristen Stewart",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Kristen Stewart",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-540",
@@ -8485,7 +10723,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Millie Bobby Brown",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Millie Bobby Brown",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-541",
@@ -8495,7 +10735,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Michael Jordan",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Michael Jordan",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-542",
@@ -8505,7 +10747,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "LeBron James",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "LeBron James",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-543",
@@ -8515,7 +10759,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kobe Bryant",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Kobe Bryant",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-544",
@@ -8525,7 +10771,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Stephen Curry",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Stephen Curry",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-545",
@@ -8535,7 +10783,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Usain Bolt",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Usain Bolt",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-546",
@@ -8545,7 +10795,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Michael Phelps",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Michael Phelps",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-547",
@@ -8555,7 +10807,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Serena Williams",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Serena Williams",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-548",
@@ -8565,7 +10819,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Roger Federer",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Roger Federer",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-549",
@@ -8575,7 +10831,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Rafael Nadal",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Rafael Nadal",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-550",
@@ -8585,7 +10843,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Novak Djokovic",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Novak Djokovic",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-551",
@@ -8595,7 +10855,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Lewis Hamilton",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Lewis Hamilton",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-552",
@@ -8605,7 +10867,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Max Verstappen",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Max Verstappen",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-553",
@@ -8615,7 +10879,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Michael Schumacher",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Michael Schumacher",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-554",
@@ -8625,7 +10891,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Diego Maradona",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Diego Maradona",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-555",
@@ -8635,7 +10903,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Kylian Mbappé",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Kylian Mbappé",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-556",
@@ -8645,7 +10915,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Zinedine Zidane",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Zinedine Zidane",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-557",
@@ -8655,7 +10927,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Erling Haaland",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Erling Haaland",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-558",
@@ -8665,7 +10939,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mike Tyson",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Mike Tyson",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-559",
@@ -8675,7 +10951,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Muhammad Ali",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Muhammad Ali",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-560",
@@ -8685,7 +10963,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Conor McGregor",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Conor McGregor",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-561",
@@ -8695,7 +10975,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Tony Hawk",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Tony Hawk",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-562",
@@ -8705,7 +10987,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Simone Biles",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Simone Biles",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-563",
@@ -8715,7 +10999,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Nikola Tesla",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Nikola Tesla",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-564",
@@ -8725,7 +11011,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Isaac Newton",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Isaac Newton",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-565",
@@ -8735,7 +11023,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Galileu Galilei",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Galileu Galilei",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-566",
@@ -8745,7 +11035,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Marie Curie",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Marie Curie",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-567",
@@ -8755,7 +11047,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Stephen Hawking",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Stephen Hawking",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-568",
@@ -8765,7 +11059,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Thomas Edison",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Thomas Edison",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-569",
@@ -8775,7 +11071,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Steve Jobs",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Steve Jobs",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-570",
@@ -8785,7 +11083,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Bill Gates",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Bill Gates",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-571",
@@ -8795,7 +11095,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Mark Zuckerberg",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Mark Zuckerberg",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-572",
@@ -8805,7 +11107,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Elon Musk",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Elon Musk",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-573",
@@ -8815,7 +11119,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Jeff Bezos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Jeff Bezos",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-574",
@@ -8825,7 +11131,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Pablo Picasso",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Pablo Picasso",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-575",
@@ -8835,7 +11143,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Vincent van Gogh",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Vincent van Gogh",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-576",
@@ -8845,7 +11155,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Salvador Dalí",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Salvador Dalí",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-577",
@@ -8855,7 +11167,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Ludwig van Beethoven",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ludwig van Beethoven",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-578",
@@ -8865,7 +11179,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Wolfgang Amadeus Mozart",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Wolfgang Amadeus Mozart",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-579",
@@ -8875,7 +11191,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Cleópatra",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Cleópatra",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-580",
@@ -8885,7 +11203,9 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Júlio César",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Júlio César",
+      "wikiEn": null
     },
     {
       "id": "who-expanded-581",
@@ -8895,7 +11215,53 @@ window.PLAYBOX_CATALOG = {
       "hint": "Personalidades internacionais",
       "source": "Curadoria editorial PlayBox; imagem canônica pendente.",
       "wikiTitle": "Napoleão Bonaparte",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Napoleão Bonaparte",
+      "wikiEn": null
+    },
+    {
+      "id": "who-simpsons-flanders",
+      "name": "Flanders",
+      "category": "Personagens de animação",
+      "level": 2,
+      "series": "Os Simpsons",
+      "wikiPt": "Ned Flanders",
+      "wikiEn": "Ned Flanders",
+      "source": "Wikipédia",
+      "image": null
+    },
+    {
+      "id": "who-simpsons-lisa-simpson",
+      "name": "Lisa Simpson",
+      "category": "Personagens de animação",
+      "level": 2,
+      "series": "Os Simpsons",
+      "wikiPt": "Lisa Simpson",
+      "wikiEn": "Lisa Simpson",
+      "source": "Wikipédia",
+      "image": null
+    },
+    {
+      "id": "who-simpsons-maggie-simpson",
+      "name": "Maggie Simpson",
+      "category": "Personagens de animação",
+      "level": 2,
+      "series": "Os Simpsons",
+      "wikiPt": "Maggie Simpson",
+      "wikiEn": "Maggie Simpson",
+      "source": "Wikipédia",
+      "image": null
+    },
+    {
+      "id": "who-simpsons-marge-simpson",
+      "name": "Marge Simpson",
+      "category": "Personagens de animação",
+      "level": 2,
+      "series": "Os Simpsons",
+      "wikiPt": "Marge Simpson",
+      "wikiEn": "Marge Simpson",
+      "source": "Wikipédia",
+      "image": null
     }
   ],
   "logo": [
@@ -8909,7 +11275,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "YouTube",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "YouTube",
+      "wikiEn": "YouTube"
     },
     {
       "id": "logo-instagram",
@@ -8921,7 +11289,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Instagram",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Instagram",
+      "wikiEn": "Instagram"
     },
     {
       "id": "logo-spotify",
@@ -8933,7 +11303,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Spotify",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Spotify",
+      "wikiEn": "Spotify"
     },
     {
       "id": "logo-netflix",
@@ -8945,7 +11317,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Netflix",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Netflix",
+      "wikiEn": "Netflix"
     },
     {
       "id": "logo-whatsapp",
@@ -8957,7 +11331,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "WhatsApp",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "WhatsApp",
+      "wikiEn": "WhatsApp"
     },
     {
       "id": "logo-tiktok",
@@ -8969,7 +11345,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "TikTok",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "TikTok",
+      "wikiEn": "TikTok"
     },
     {
       "id": "logo-apple",
@@ -8981,7 +11359,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Apple Inc.",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Apple Inc.",
+      "wikiEn": "Apple"
     },
     {
       "id": "logo-nike",
@@ -8993,7 +11373,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Nike",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Nike",
+      "wikiEn": "Nike"
     },
     {
       "id": "logo-adidas",
@@ -9005,7 +11387,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Adidas",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Adidas",
+      "wikiEn": "Adidas"
     },
     {
       "id": "logo-mcdonalds",
@@ -9017,7 +11401,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "McDonald's",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "McDonald's",
+      "wikiEn": "McDonald's"
     },
     {
       "id": "logo-burgerking",
@@ -9029,7 +11415,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Burger King",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Burger King",
+      "wikiEn": "Burger King"
     },
     {
       "id": "logo-starbucks",
@@ -9041,7 +11429,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Starbucks",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Starbucks",
+      "wikiEn": "Starbucks"
     },
     {
       "id": "logo-pepsi",
@@ -9053,7 +11443,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Pepsi",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Pepsi",
+      "wikiEn": "Pepsi"
     },
     {
       "id": "logo-cocacola",
@@ -9065,7 +11457,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Coca-Cola",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Coca-Cola",
+      "wikiEn": "Coca-Cola"
     },
     {
       "id": "logo-amazon",
@@ -9077,7 +11471,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Amazon",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Amazon",
+      "wikiEn": "Amazon"
     },
     {
       "id": "logo-google",
@@ -9089,7 +11485,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Google",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Google",
+      "wikiEn": "Google"
     },
     {
       "id": "logo-microsoft",
@@ -9101,7 +11499,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Microsoft",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Microsoft",
+      "wikiEn": "Microsoft"
     },
     {
       "id": "logo-playstation",
@@ -9113,7 +11513,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "PlayStation",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "PlayStation",
+      "wikiEn": "PlayStation"
     },
     {
       "id": "logo-xbox",
@@ -9125,7 +11527,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Xbox",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Xbox",
+      "wikiEn": "Xbox"
     },
     {
       "id": "logo-nintendo",
@@ -9137,7 +11541,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Nintendo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Nintendo",
+      "wikiEn": "Nintendo"
     },
     {
       "id": "logo-samsung",
@@ -9149,7 +11555,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Samsung",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Samsung",
+      "wikiEn": "Samsung"
     },
     {
       "id": "logo-puma",
@@ -9161,7 +11569,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Puma (marca)",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Puma (marca)",
+      "wikiEn": "Puma"
     },
     {
       "id": "logo-toyota",
@@ -9173,7 +11583,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Toyota",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Toyota",
+      "wikiEn": "Toyota"
     },
     {
       "id": "logo-bmw",
@@ -9185,7 +11597,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "BMW",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "BMW",
+      "wikiEn": "BMW"
     },
     {
       "id": "logo-mercedes",
@@ -9197,7 +11611,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Mercedes-Benz",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Mercedes-Benz",
+      "wikiEn": "Mercedes-Benz"
     },
     {
       "id": "logo-volkswagen",
@@ -9209,7 +11625,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Volkswagen",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Volkswagen",
+      "wikiEn": "Volkswagen"
     },
     {
       "id": "logo-lego",
@@ -9221,7 +11639,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "LEGO",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "LEGO",
+      "wikiEn": "LEGO"
     },
     {
       "id": "logo-visa",
@@ -9233,7 +11653,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Visa Inc.",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Visa Inc.",
+      "wikiEn": "Visa"
     },
     {
       "id": "logo-mastercard",
@@ -9245,7 +11667,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros; ícone estilizado, não necessariamente o logo oficial completo; revisão pendente.",
       "wikiTitle": "Mastercard",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Mastercard",
+      "wikiEn": "Mastercard"
     },
     {
       "id": "logo-br-29",
@@ -9258,7 +11682,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://boticario.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "O Boticário",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "O Boticário",
+      "wikiEn": "O Boticário"
     },
     {
       "id": "logo-br-30",
@@ -9271,7 +11697,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://natura.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Natura (empresa)",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Natura (empresa)",
+      "wikiEn": "Natura"
     },
     {
       "id": "logo-br-31",
@@ -9284,7 +11712,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://havaianas.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Havaianas",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Havaianas",
+      "wikiEn": "Havaianas"
     },
     {
       "id": "logo-br-32",
@@ -9297,7 +11727,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://lojasrenner.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Renner",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Renner",
+      "wikiEn": "Renner"
     },
     {
       "id": "logo-br-33",
@@ -9310,7 +11742,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://riachuelo.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Riachuelo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Riachuelo",
+      "wikiEn": "Riachuelo"
     },
     {
       "id": "logo-br-34",
@@ -9323,7 +11757,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://cea.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "C&A",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "C&A",
+      "wikiEn": "C&A"
     },
     {
       "id": "logo-br-35",
@@ -9336,7 +11772,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Lacoste",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Lacoste",
+      "wikiEn": "Lacoste"
     },
     {
       "id": "logo-br-36",
@@ -9349,7 +11787,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Converse",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Converse",
+      "wikiEn": "Converse"
     },
     {
       "id": "logo-br-37",
@@ -9362,7 +11802,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Vans",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Vans",
+      "wikiEn": "Vans"
     },
     {
       "id": "logo-br-38",
@@ -9375,7 +11817,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://itau.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Itaú",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Itaú",
+      "wikiEn": "Itaú"
     },
     {
       "id": "logo-br-39",
@@ -9388,7 +11832,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://bradesco.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Bradesco",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Bradesco",
+      "wikiEn": "Bradesco"
     },
     {
       "id": "logo-br-40",
@@ -9401,7 +11847,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://bb.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Banco do Brasil",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Banco do Brasil",
+      "wikiEn": "Banco do Brasil"
     },
     {
       "id": "logo-br-41",
@@ -9414,7 +11862,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://caixa.gov.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Caixa Econômica Federal",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Caixa Econômica Federal",
+      "wikiEn": "Caixa"
     },
     {
       "id": "logo-br-42",
@@ -9427,7 +11877,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Nubank",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Nubank",
+      "wikiEn": "Nubank"
     },
     {
       "id": "logo-br-43",
@@ -9440,7 +11892,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Santander",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Santander",
+      "wikiEn": "Santander"
     },
     {
       "id": "logo-br-44",
@@ -9453,7 +11907,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "PicPay",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "PicPay",
+      "wikiEn": "PicPay"
     },
     {
       "id": "logo-br-45",
@@ -9466,7 +11922,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Mercado Livre",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Mercado Livre",
+      "wikiEn": "Mercado Livre"
     },
     {
       "id": "logo-br-46",
@@ -9479,7 +11937,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://magazineluiza.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Magazine Luiza",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Magazine Luiza",
+      "wikiEn": "Magazine Luiza"
     },
     {
       "id": "logo-br-47",
@@ -9492,7 +11952,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://casasbahia.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Casas Bahia",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Casas Bahia",
+      "wikiEn": "Casas Bahia"
     },
     {
       "id": "logo-br-48",
@@ -9505,7 +11967,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://americanas.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Americanas",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Americanas",
+      "wikiEn": "Americanas"
     },
     {
       "id": "logo-br-49",
@@ -9518,7 +11982,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Shopee",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Shopee",
+      "wikiEn": "Shopee"
     },
     {
       "id": "logo-br-50",
@@ -9531,7 +11997,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "AliExpress",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "AliExpress",
+      "wikiEn": "AliExpress"
     },
     {
       "id": "logo-br-51",
@@ -9544,7 +12012,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Shein",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Shein",
+      "wikiEn": "Shein"
     },
     {
       "id": "logo-br-52",
@@ -9557,7 +12027,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "iFood",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "iFood",
+      "wikiEn": "iFood"
     },
     {
       "id": "logo-br-53",
@@ -9570,7 +12042,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Uber",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Uber",
+      "wikiEn": "Uber"
     },
     {
       "id": "logo-br-54",
@@ -9583,7 +12057,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://99app.com",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "99 (empresa)",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "99 (empresa)",
+      "wikiEn": "99"
     },
     {
       "id": "logo-br-55",
@@ -9596,7 +12072,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://globo.com",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "TV Globo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "TV Globo",
+      "wikiEn": "Globo"
     },
     {
       "id": "logo-br-56",
@@ -9609,7 +12087,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://sbt.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Sistema Brasileiro de Televisão",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Sistema Brasileiro de Televisão",
+      "wikiEn": "SBT"
     },
     {
       "id": "logo-br-57",
@@ -9622,7 +12102,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://record.r7.com",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Record (rede de televisão)",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Record (rede de televisão)",
+      "wikiEn": "Record"
     },
     {
       "id": "logo-br-58",
@@ -9635,7 +12117,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "The Walt Disney Company",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "The Walt Disney Company",
+      "wikiEn": "Disney"
     },
     {
       "id": "logo-br-59",
@@ -9648,7 +12132,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://claro.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Claro (empresa)",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Claro (empresa)",
+      "wikiEn": "Claro"
     },
     {
       "id": "logo-br-60",
@@ -9661,7 +12147,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://vivo.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Vivo (empresa)",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Vivo (empresa)",
+      "wikiEn": "Vivo"
     },
     {
       "id": "logo-br-61",
@@ -9674,7 +12162,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://tim.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "TIM Brasil",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "TIM Brasil",
+      "wikiEn": "TIM"
     },
     {
       "id": "logo-br-62",
@@ -9687,7 +12177,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Motorola",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Motorola",
+      "wikiEn": "Motorola"
     },
     {
       "id": "logo-br-63",
@@ -9700,7 +12192,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "LG Electronics",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "LG Electronics",
+      "wikiEn": "LG"
     },
     {
       "id": "logo-br-64",
@@ -9713,7 +12207,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Sony",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Sony",
+      "wikiEn": "Sony"
     },
     {
       "id": "logo-br-65",
@@ -9726,7 +12222,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Philips",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Philips",
+      "wikiEn": "Philips"
     },
     {
       "id": "logo-br-66",
@@ -9739,7 +12237,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Intel",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Intel",
+      "wikiEn": "Intel"
     },
     {
       "id": "logo-br-67",
@@ -9752,7 +12252,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "HP Inc.",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "HP Inc.",
+      "wikiEn": "HP"
     },
     {
       "id": "logo-br-68",
@@ -9765,7 +12267,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Dell",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Dell",
+      "wikiEn": "Dell"
     },
     {
       "id": "logo-br-69",
@@ -9778,7 +12282,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Xiaomi",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Xiaomi",
+      "wikiEn": "Xiaomi"
     },
     {
       "id": "logo-br-70",
@@ -9791,7 +12297,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Nestlé",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Nestlé",
+      "wikiEn": "Nestlé"
     },
     {
       "id": "logo-br-71",
@@ -9804,7 +12312,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://nescau.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Nescau",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Nescau",
+      "wikiEn": "Nescau"
     },
     {
       "id": "logo-br-72",
@@ -9817,7 +12327,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Danone",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Danone",
+      "wikiEn": "Danone"
     },
     {
       "id": "logo-br-73",
@@ -9830,7 +12342,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://yakult.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Yakult",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Yakult",
+      "wikiEn": "Yakult"
     },
     {
       "id": "logo-br-74",
@@ -9843,7 +12357,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://sadia.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Sadia",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Sadia",
+      "wikiEn": "Sadia"
     },
     {
       "id": "logo-br-75",
@@ -9856,7 +12372,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://perdigao.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Perdigão",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Perdigão",
+      "wikiEn": "Perdigão"
     },
     {
       "id": "logo-br-76",
@@ -9869,7 +12387,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://seara.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Seara",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Seara",
+      "wikiEn": "Seara"
     },
     {
       "id": "logo-br-77",
@@ -9882,7 +12402,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://garoto.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Garoto",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Garoto",
+      "wikiEn": "Garoto"
     },
     {
       "id": "logo-br-78",
@@ -9895,7 +12417,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://lacta.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Lacta",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Lacta",
+      "wikiEn": "Lacta"
     },
     {
       "id": "logo-br-79",
@@ -9908,7 +12432,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://cacaushow.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Cacau Show",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Cacau Show",
+      "wikiEn": "Cacau Show"
     },
     {
       "id": "logo-br-80",
@@ -9921,7 +12447,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Oreo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Oreo",
+      "wikiEn": "Oreo"
     },
     {
       "id": "logo-br-81",
@@ -9934,7 +12462,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Nutella",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Nutella",
+      "wikiEn": "Nutella"
     },
     {
       "id": "logo-br-82",
@@ -9947,7 +12477,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://doritos.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Doritos",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Doritos",
+      "wikiEn": "Doritos"
     },
     {
       "id": "logo-br-83",
@@ -9960,7 +12492,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Fanta",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Fanta",
+      "wikiEn": "Fanta"
     },
     {
       "id": "logo-br-84",
@@ -9973,7 +12507,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Sprite (refrigerante)",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Sprite (refrigerante)",
+      "wikiEn": "Sprite"
     },
     {
       "id": "logo-br-85",
@@ -9986,7 +12522,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://guaranaantarctica.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Guaraná Antarctica",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Guaraná Antarctica",
+      "wikiEn": "Guaraná Antarctica"
     },
     {
       "id": "logo-br-86",
@@ -9999,7 +12537,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "KFC",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "KFC",
+      "wikiEn": "KFC"
     },
     {
       "id": "logo-br-87",
@@ -10012,7 +12552,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Subway",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Subway",
+      "wikiEn": "Subway"
     },
     {
       "id": "logo-br-88",
@@ -10025,7 +12567,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Pizza Hut",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Pizza Hut",
+      "wikiEn": "Pizza Hut"
     },
     {
       "id": "logo-br-89",
@@ -10038,7 +12582,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://bobs.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Bob's",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Bob's",
+      "wikiEn": "Bob's"
     },
     {
       "id": "logo-br-90",
@@ -10051,7 +12597,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://habibs.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Habib's",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Habib's",
+      "wikiEn": "Habib's"
     },
     {
       "id": "logo-br-91",
@@ -10064,7 +12612,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://dove.com",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Dove (marca)",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Dove (marca)",
+      "wikiEn": "Dove"
     },
     {
       "id": "logo-br-92",
@@ -10077,7 +12627,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://colgate.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Colgate",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Colgate",
+      "wikiEn": "Colgate"
     },
     {
       "id": "logo-br-93",
@@ -10090,7 +12642,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://nivea.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Nivea",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Nivea",
+      "wikiEn": "Nivea"
     },
     {
       "id": "logo-br-94",
@@ -10103,7 +12657,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://omo.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Omo",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Omo",
+      "wikiEn": "OMO"
     },
     {
       "id": "logo-br-95",
@@ -10116,7 +12672,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://petrobras.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Petrobras",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Petrobras",
+      "wikiEn": "Petrobras"
     },
     {
       "id": "logo-br-96",
@@ -10129,7 +12687,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Shell plc",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Shell plc",
+      "wikiEn": "Shell"
     },
     {
       "id": "logo-br-97",
@@ -10142,7 +12702,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://ipiranga.com.br",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Ipiranga",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Ipiranga",
+      "wikiEn": "Ipiranga"
     },
     {
       "id": "logo-br-98",
@@ -10155,7 +12717,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Fiat Automóveis",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Fiat Automóveis",
+      "wikiEn": "Fiat"
     },
     {
       "id": "logo-br-99",
@@ -10168,7 +12732,9 @@ window.PLAYBOX_CATALOG = {
       "source": "https://simpleicons.org/",
       "rights": "Marca de terceiros. Referência e direitos não validados; site oficial como alternativa.",
       "wikiTitle": "Chevrolet",
-      "wikiLang": "pt"
+      "wikiLang": "pt",
+      "wikiPt": "Chevrolet",
+      "wikiEn": "Chevrolet"
     }
   ]
 };
